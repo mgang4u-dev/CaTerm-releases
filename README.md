@@ -1,10 +1,12 @@
-<img src="app-icon.png" width="100" align="left" style="margin-right: 20px">
+<p align="center">
+  <img src="app-icon-clean.png" width="120">
+</p>
 
-# CaTerm
+<h1 align="center">CaTerm</h1>
 
-macOS용 SSH/터미널 클라이언트
+<p align="center">macOS용 SSH/터미널 클라이언트</p>
 
-<br clear="left">
+---
 
 ## 주요 기능
 
