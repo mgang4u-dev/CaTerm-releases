@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "notes": "v0.2.4: Sidebar pin, Port forwarding UX, Context menu improvements\n\n- Add sidebar pin button (prevent auto-close per tab)\n- Port forwarding: show selection dialog on SSH connect\n- Remove radio buttons from port forwarding editor\n- Duplicate check for port forwarding rules\n- Context menu: auto-close after 8 seconds\n- Context menu: close on mousedown, scroll, escape\n- Auto response: strip ANSI codes, add cooldown\n- Fix auto response intermittent trigger issue",
-  "pub_date": "2026-01-20T09:15:00Z",
+  "version": "0.2.5",
+  "notes": "v0.2.5: Per-tab sidebar state\n\n- Each tab now has its own sidebar open/closed state\n- Switching tabs applies that tab's sidebar state\n- Sidebar toggle button affects only current tab\n- Auto-close setting: closes sidebar for new tabs only",
+  "pub_date": "2026-01-20T09:15:02Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSnpXR0VQcTU1Z0hFamdWaG9zNUNwbUVJYXZyU0VyVm9aY05NRVg5N3owR3BMRGo1M3o5ZENsMkFWeUgvV3FGanRCbFArSU1oNUYxd2J1ZmFQRnRjTlBadEs2eE54M0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4ODk4OTQxCWZpbGU6Q2FUZXJtLmFwcC50YXIuZ3oKbmNuVHNPQUd0bEdsL1lBQVJRYWkwZHExVjlZOGdaV3NsL3dIUVRKSENYSm1LKzNnQytEeVp3NFFKb3FROXlNNHBXNGNTNEhoN3Q1TEpjejVzVGRpREE9PQo=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.2.4/CaTerm.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSnpXR0VQcTU1Z05Kb1NsRktKclkvdEJvaFE5Y2J1VjFxcVdpMXBKNGRRdlNhL3FUVHFFWFE2bTNUQWdsQ0w0YVQvQ3pDekY4NTZTU3VIbjJxbVR6MDN3eUtjM0lBbmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTAwMzIyCWZpbGU6Q2FUZXJtLmFwcC50YXIuZ3oKbkpiTzRobWYyRGJYYXF5aWgrVGpKSzgvQXA1Y1pvenNhN29nSytpUDVlTWMzSFZiR01rdkJxSDJUdkgrNjBXdmp4VzdqekR1Ky9TN2V1WmNQeFM4QUE9PQo=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.2.5/CaTerm.app.tar.gz"
     }
   }
 }
