@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">CaTerm</h1>
-
 <p align="center">macOS용 SSH/터미널 클라이언트</p>
 
 ## 주요 기능
