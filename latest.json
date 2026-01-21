@@ -1,11 +1,11 @@
 {
-  "version": "0.2.10",
-  "notes": "v0.2.10: Release\n\n## v0.2.10 업데이트 내역  - 인증 페이지 디자인 개선 - 업데이트 알림창 UI 개선 - 릴리즈 노트 한글 지원 - 사이드바 탭 hover 효과 수정 ",
-  "pub_date": "2026-01-21T09:25:44Z",
+  "version": "0.3.0",
+  "notes": "v0.3.0: Release\n\n## v0.3.0 업데이트 내역  - 오픈소스 라이선스 목록 보완 - 인증 페이지 디자인 개선 - 업데이트 알림창 UI 개선 - 릴리즈 노트 한글 지원 ",
+  "pub_date": "2026-01-21T09:33:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBWVU1qbFBUMUJXZUcxMkwwTnhWR0pvWTNwMlUwa3dWbXB5YkdWbmVtRnpXV0kwYlVwd1JUSlZaMkpqVVhOSGQwRkhiVk5NTDJsRkwyVXpjSFZwWkdaMFRqUlllV2htTkZONlMzaExVWFJrVFdsek9HZEJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNE9UZzNOREUyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tkekpTZEhCQ1lXOUJXRVlyVnl0cVMxVmpiRlZ1WW1kdlUwUjFTM0JLVTJNeVYwY3hOR0pqZGtwd09FVkxLM0EzU0hRdlRqRlFlWFpPVUZNek5XWllVMmxwZWsxcE9XMURVa1pRS3pSWlNIaERaVVk0UkVFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.2.10/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBvMk1ETjNWV2RJUmtaT1YzUllUbmxQU2xCa1dHZFpXbGxXUzJGcVozQTFWM1JEU1U4NVJXcFVRWFZNWm5GYVYwVmlkRFI1U1dwVWVFTkpPV1JETW5KNFNERm9iQ3QyVFVaa1duRXlNVTU1UW5SSWNIZHZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNE9UZzNPVEV5Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tXRkYwWWt4cE1YZDBlSGxqWVZCdE5UbFJaRXBRTm5wWFVVNVVhakJQYTI0dmJEUkpSVlJvYVVNd1MwWm5jVFpXT1RSRVRXNHJPV1pTZGs4clIybzNaVk5OSzB0dWNVUnJUR0ZIYW5OMlJFOUVRM1oyUW5jOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.0/CaTerm.app.tar.gz"
     }
   }
 }
