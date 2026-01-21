@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "notes": "v0.2.6: Release\n\n- v0.2.6: Context menu & Port forwarding fixes - v0.2.5: Per-tab sidebar state - Remove line gap between title and description - Remove horizontal line from README - Update README layout with centered icon - v0.2.4: Sidebar pin, Port forwarding UX, Context menu improvements - v0.2.3: Update app icons from app-icon.png - Use clean icon for settings/about dialog - Bump version to 0.2.2 - Rename localStorage keys from jterm to caterm ",
-  "pub_date": "2026-01-21T02:29:31Z",
+  "version": "0.2.7",
+  "notes": "v0.2.7: Release\n\n- v0.2.7: Progress indicator & window detach fixes - v0.2.6: Context menu & Port forwarding fixes - v0.2.5: Per-tab sidebar state - Remove line gap between title and description - Remove horizontal line from README - Update README layout with centered icon - v0.2.4: Sidebar pin, Port forwarding UX, Context menu improvements - v0.2.3: Update app icons from app-icon.png - Use clean icon for settings/about dialog - Bump version to 0.2.2 ",
+  "pub_date": "2026-01-21T08:14:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBoSlIySnFTeXROVkd4emF6aDFjVVZJZEd0Vk4zbFNPRXB0U2t4M1ozWnlVMHRCWTBGT1NrZFFkSFJaVXpnd1MycHViWGREU1ZGU2VrSkJkREpMT0VSNVJrcG5NMXAyYlRadGFqbFhXVFI2UlVNMmFFRk5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNE9UQXlPREl3Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tlWGRQWVROVmJsaFhWM2RWTjFGak1GZDVMMFZuTjBkT2RGaG9SR3BLZUdSc1dGTjJjV2xEUWsxM1NsWmxiSFZ4U1U1b1FXOUJWR0l6WlVGWE5sbzRRbFJGTnpoWVZqSmtjbkkxZEVKd2JGUm9aVU55UTJjOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.2.6/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBGQ1YxQkJNazFIUWl0TWNVRkliM0JGVWtoQ01VVnRjVUZKY0VocWQyZFlVMEpPV1hJd1NVTlhVVk5FWnpGR2JWZDZkMWR6U1dvMVpGZHRSemxLSzNWSVpXOXVlRXMyVEdGd2JIaFVVamMwT1c4d2FYYzBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNE9UZ3pNVEE0Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tNMXBXV0ZkelZDOHhXVzVaTnpST1JHRmFSSE51V2pRcmNGZEZORU42Ylhwd1ozUlhXR0ZpVWtJd1ZuZFNaMkZhVW5GTFIwaHpkMFpwVXpaaFpEbHdaMkZYYTBKdGNtOUpUWGRsTldONVRWZzRjV0pMUVZFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.2.7/CaTerm.app.tar.gz"
     }
   }
 }
