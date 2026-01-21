@@ -1,11 +1,11 @@
 {
-  "version": "0.2.9",
-  "notes": "v0.2.9: Release\n\n- v0.2.9: Auth page redesign & UI improvements - v0.2.8: Show release notes in update dialog - Fix release script to zip app before notarization - v0.2.7: Progress indicator & window detach fixes - v0.2.6: Context menu & Port forwarding fixes - v0.2.5: Per-tab sidebar state - Remove line gap between title and description - Remove horizontal line from README - Update README layout with centered icon - v0.2.4: Sidebar pin, Port forwarding UX, Context menu improvements ",
-  "pub_date": "2026-01-21T09:15:25Z",
+  "version": "0.2.10",
+  "notes": "v0.2.10: Release\n\n## v0.2.10 업데이트 내역  - 인증 페이지 디자인 개선 - 업데이트 알림창 UI 개선 - 릴리즈 노트 한글 지원 - 사이드바 탭 hover 효과 수정 ",
+  "pub_date": "2026-01-21T09:25:44Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjAxWGVqZFpNbkFyU25wU1pFb3pjVVJYV2tOYVowTnBaMFkzVldaaVRuWlNTbk5uTDI1TGFtbHJZMUZKV0drNE5VeFFWV0p3U0hObE5uQmhWR3gzSzB4TFZub3pkVXhETDNWWlkxcERSVzgzWVZwMGRuYzBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNE9UZzJPREF6Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tWR3N5U1ZSaVFXUjNTMGRGT1RoVFMxWk5WWEZxUWtOcmFWVjBMelpoWVZWek56SkhTVEo1VW1WQmRIWlZNVFZITkZkVFIybFlVRXR6WkVwdFNFdEpialUzTkVwR1VtSktkWEZvYWs1U1JFODBiaXRHUTFFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.2.9/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBWVU1qbFBUMUJXZUcxMkwwTnhWR0pvWTNwMlUwa3dWbXB5YkdWbmVtRnpXV0kwYlVwd1JUSlZaMkpqVVhOSGQwRkhiVk5NTDJsRkwyVXpjSFZwWkdaMFRqUlllV2htTkZONlMzaExVWFJrVFdsek9HZEJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNE9UZzNOREUyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tkekpTZEhCQ1lXOUJXRVlyVnl0cVMxVmpiRlZ1WW1kdlUwUjFTM0JLVTJNeVYwY3hOR0pqZGtwd09FVkxLM0EzU0hRdlRqRlFlWFpPVUZNek5XWllVMmxwZWsxcE9XMURVa1pRS3pSWlNIaERaVVk0UkVFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.2.10/CaTerm.app.tar.gz"
     }
   }
 }
