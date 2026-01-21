@@ -1,10 +1,10 @@
 {
   "version": "0.2.6",
-  "notes": "v0.2.6: Context menu & Port forwarding fixes\n\n- Fixed context menus being cut off at window edges\n- Fixed SSH port forwarding not working (enabled flag issue)\n- All context menus now stay within viewport boundaries",
-  "pub_date": "2026-01-20T09:53:40Z",
+  "notes": "v0.2.6: Release\n\n- v0.2.6: Context menu & Port forwarding fixes - v0.2.5: Per-tab sidebar state - Remove line gap between title and description - Remove horizontal line from README - Update README layout with centered icon - v0.2.4: Sidebar pin, Port forwarding UX, Context menu improvements - v0.2.3: Update app icons from app-icon.png - Use clean icon for settings/about dialog - Bump version to 0.2.2 - Rename localStorage keys from jterm to caterm ",
+  "pub_date": "2026-01-21T02:24:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSnpXR0VQcTU1Z0hJR2JqSytNVGxzazh1cUVIdGtVN3lSOEptSkx3Z3ZyU0tBY0FOSkdQdHRZUzgwS2pubXdDSVFSekJBdDJLOER5RkpnM1p2bTZtajlXWTR6RUM2aEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTAyODIwCWZpbGU6Q2FUZXJtLmFwcC50YXIuZ3oKeXdPYTNVblhXV3dVN1FjMFd5L0VnN0dOdFhoRGpKeGRsWFN2cWlDQk13SlZlbHVxSU5oQW9BVGIzZUFXNlo4QlRFNzhYVjJkcnI1dEJwbFRoZUNyQ2c9PQo=",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBoSlIySnFTeXROVkd4emF6aDFjVVZJZEd0Vk4zbFNPRXB0U2t4M1ozWnlVMHRCWTBGT1NrZFFkSFJaVXpnd1MycHViWGREU1ZGU2VrSkJkREpMT0VSNVJrcG5NMXAyYlRadGFqbFhXVFI2UlVNMmFFRk5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNE9UQXlPREl3Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tlWGRQWVROVmJsaFhWM2RWTjFGak1GZDVMMFZuTjBkT2RGaG9SR3BLZUdSc1dGTjJjV2xEUWsxM1NsWmxiSFZ4U1U1b1FXOUJWR0l6WlVGWE5sbzRRbFJGTnpoWVZqSmtjbkkxZEVKd2JGUm9aVU55UTJjOVBRbz0=",
       "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.2.6/CaTerm.app.tar.gz"
     }
   }
