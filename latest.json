@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "notes": "v0.3.4: Release\n\n- Claude 바이너리 검색 경로 확장 (Homebrew, PATH 지원) ",
-  "pub_date": "2026-01-22T07:41:18Z",
+  "version": "0.3.5",
+  "notes": "v0.3.5: Release\n\n- Claude 사용량 조회 타임아웃 증가 및 디버깅 개선 ",
+  "pub_date": "2026-01-22T07:50:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBObVluZEtUMnBDYUV4RlpVaFpXbTFvZVV4SlMwUXJZa0UzU0RZMmVEZEtZalJVSzJkVlpUTlFkMGhHU3pSWVZWazJWVXAwZHpCdWRVVk5VRWhWWjBVemJHdGFVM1UzWVU1elVXUmpjak0wYUhWdEsxRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EWTNOVE0xQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tZMlphVGtOMlVVUnhRV0o1UkRKVlowczFLemswYUVkT1dFOUxSemxEVTNsbFdrUlhaMUp1UW5GbGNVVk9hVkpaYWpGQmNrUldkVFZuVUZodlRqbHlVVE5OWjFwTVprRm5OVE0yTUZsd1JYZG1Xa2x2UTFFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.4/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBkQlZVNHJibko1WTB4Q1ZFTnRhbXR4Y0VzNVV6RnRkMVJVWm14UFZqVmFOMGxDYUZwV1JGcGlNMUpVV2tRclIyVTBUMFIzZGxOS1ZHd3dLM0ZMVFRWUGIwNUVVVEZ1VjNoWVkwMHdha1pKWVZrNFQyZHJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EWTRNRE15Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tXVzF1V0d0U1lrMUdWVTlNTjJaNGRDdFNiVm94V1drNGJtWXpZMlpvYWpGRFMyRmFka2RLVVRSSGVFRkpiM0pvUTBaclNXeG5TWGN3ZUhjek5YVm9aQzkyTkhocGFGTkdXVWNyUzBoVWNGVnVablkwUW5jOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.5/CaTerm.app.tar.gz"
     }
   }
 }
