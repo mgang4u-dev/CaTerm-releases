@@ -1,11 +1,11 @@
 {
-  "version": "0.3.3",
-  "notes": "v0.3.3: Release\n\n- Path-bar 버튼 아이콘 추가 (MD, Title, Usage)\n- Vibe 프로젝트용 IDE 버튼 추가\n- Claude 사용량 로딩 애니메이션 및 재시도 로직\n- 플로팅 제목/사용량 드래그 이동 지원\n- 버튼 3초 롱프레스로 플로팅 위치 초기화\n- 탭 분리 시 IDE 버튼 유지 수정\n- 다국어 번역 추가 (영어, 한국어, 일본어)",
-  "pub_date": "2026-01-22T06:18:40Z",
+  "version": "0.3.4",
+  "notes": "v0.3.4: Release\n\n- Claude 바이너리 검색 경로 확장 (Homebrew, PATH 지원) ",
+  "pub_date": "2026-01-22T07:41:18Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKclZFUjJPWFkxUlc5TFpEaEdjekZ3UTJVeGEwMWxNbEZ0VlRZNGRGTnBhMGhhU0dwc1dYRmpkR0ZaYkdoeWVUSnZjbXhGY2xwR2NsQlRTRlJZTmk5aE5scHZabGxoY3preFRWQlNObmRFUVU1NWVuZE5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EWXlNelk1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tlV0ZzUldRME16Tk5TbU0wTTJWVU5FdGlka0pQZW5sbWEwUnphbTQxWkhVclRVTnZiSGxzTVhsSmMxZGlVMW8xU1VVeE5VWmhNWGh3ZDBkdVN6TjBhVGN2VVZsYU4zbHVZbXAyU0hOM2RHMVFjV05aUWtFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.3/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBObVluZEtUMnBDYUV4RlpVaFpXbTFvZVV4SlMwUXJZa0UzU0RZMmVEZEtZalJVSzJkVlpUTlFkMGhHU3pSWVZWazJWVXAwZHpCdWRVVk5VRWhWWjBVemJHdGFVM1UzWVU1elVXUmpjak0wYUhWdEsxRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EWTNOVE0xQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tZMlphVGtOMlVVUnhRV0o1UkRKVlowczFLemswYUVkT1dFOUxSemxEVTNsbFdrUlhaMUp1UW5GbGNVVk9hVkpaYWpGQmNrUldkVFZuVUZodlRqbHlVVE5OWjFwTVprRm5OVE0yTUZsd1JYZG1Xa2x2UTFFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.4/CaTerm.app.tar.gz"
     }
   }
 }
