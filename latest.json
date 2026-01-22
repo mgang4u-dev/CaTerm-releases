@@ -1,11 +1,11 @@
 {
-  "version": "0.3.17",
-  "notes": "v0.3.17: Release\n\n- Claude 사용량 조회 안정성 대폭 개선 - 다양한 Mac 환경 호환성 강화 (Homebrew, PATH 지원) - 프로젝트 디렉토리 기반 실행으로 신뢰 프롬프트 해결 - Claude 바이너리 검색 경로 확장 ",
-  "pub_date": "2026-01-22T09:19:22Z",
+  "version": "0.3.18",
+  "notes": "v0.3.18: Release\n\n- Claude 사용량 조회 안정성 대폭 개선 - 다양한 Mac 환경 호환성 강화 (Homebrew, nvm, PATH 지원) - 프로젝트 디렉토리 기반 실행으로 신뢰 프롬프트 해결 - 로그인 셸을 통한 Claude 실행으로 환경변수 상속 ",
+  "pub_date": "2026-01-22T09:51:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBod1QxWndWVE4yTmxoVVZrczJZV05LY2pSeGFrWlJVV1Z4T0dacU4xRnhOa3QyWjNSV1EyVmlUeko1TUVOWFlXa3dTalpPZFU1MFIwbFFlV1JXY25waWJsbDBVM0puY2xFemEyWTFNMVJ2TDJKcFNHZHJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EY3lPVFV5Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tkSGc0U1dOTlZXVlNZMmRzVVVORWFrUlpPVVp2VkV4MmQxZGpZMnhFVW0weWVuRnhXVkZDY1hkNGJtODBOME12UjFsUEswb3lhSFJqU25oM1ZEbHFhRXhNUkUxT1RrbzJkMEZ4VG1wT2VGaEpOV2RDUTNjOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.17/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBRcldWQmpaMGx3VFM5WGRubGhNMDgwVTJkYVpIcHZabWhUTkRkV1l6ZEtVbEZ6Um5sak16STFNRkpzY21zMGRHWmFVM05tTUVsd1QzQjBVWGQ2TWpkTWRrYzFVMWxUVURoUFNqVmljVmRtY1ZGT05GRkZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EYzFNVGMyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tiQzh2WVROYVRETTBkMU0xYVRCVFNsTXJlVW94Y25aTlFXMXZUM1p5TDJkbU5HWnhNMnhGUlZkNlJteHJOSHA0TWtKaVZXcFRSSGRNYVRrMVpVUjJUMDV0U0dsYVFpOUhRa2MzWW5sVU5TOWtlbWx0UTNjOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.18/CaTerm.app.tar.gz"
     }
   }
 }
