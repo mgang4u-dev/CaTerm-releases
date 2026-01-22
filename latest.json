@@ -1,11 +1,11 @@
 {
-  "version": "0.3.7",
-  "notes": "v0.3.7: Release\n\n- Claude WARNING 프롬프트 처리 개선 (여러 키 시퀀스 시도) ",
-  "pub_date": "2026-01-22T08:05:35Z",
+  "version": "0.3.9",
+  "notes": "v0.3.9: Release\n\n- Claude 사용량 조회 안정화 (WARNING 프롬프트 처리 개선) ",
+  "pub_date": "2026-01-22T08:16:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBvM05WbEtObkJoZWtwNWQzaDRiamM1UVZoaGFYSlNibUpIT1ZCdFJXVTVkR1ZaVkVNMlYzWmtWMnhzYW1OUGRraGlaVWxEY0ZaeGNuUlFjMWQyUWk5clEybFRiMGRpVmtsTFIyVm5aVWczUlVaQmNYZGpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EWTVNREUxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tVek01V1RscVRWbHRaelJoZVVvdmRrRlFaU3RaYURad2NrbFlRWE5UUzJNMkwwTlRkamwyWTFNMmJtcGlPRmhGYzFweWVIUkhVbnBWV1hSMFZuVjVNVXhLT0dWM1JIaDFRMkphVEhweFoydHpibU5SUVhjOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.7/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBkMWJGQkhlbEJDV1N0aFdEWm5Mekk0WjFaTlZtMXRTRmszVmtkeldERkhiazVuYkhaQ05YQnFVMDh3THpsd2FHRjBNbWxVTkZjNVVuZHhWMGM1TW5KTWIyZHlTRTQxZDFwcGRHbFdNSE4xVjB4UE5XYzRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EWTVOalkyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tPRFZWZVdWbWVYSnlPRXAxZDFKcWJHNW5ORzRyYUdacU9Hd3diRGhaVDAwcmVrd3lhVVJoVmxCWU9XcHdSREUyV1hkeGJFWkJlV1JrTjFGUlptWnRaRFZJZG1Oa2RqTjZRa1J3TDNab0t6VXpNblowUVdjOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.9/CaTerm.app.tar.gz"
     }
   }
 }
