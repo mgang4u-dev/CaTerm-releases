@@ -1,11 +1,11 @@
 {
-  "version": "0.3.5",
-  "notes": "v0.3.5: Release\n\n- Claude 사용량 조회 타임아웃 증가 및 디버깅 개선 ",
-  "pub_date": "2026-01-22T07:50:09Z",
+  "version": "0.3.6",
+  "notes": "v0.3.6: Release\n\n- Claude 사용량 조회 디버깅 강화 (경로, 출력 길이 포함) ",
+  "pub_date": "2026-01-22T07:58:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBkQlZVNHJibko1WTB4Q1ZFTnRhbXR4Y0VzNVV6RnRkMVJVWm14UFZqVmFOMGxDYUZwV1JGcGlNMUpVV2tRclIyVTBUMFIzZGxOS1ZHd3dLM0ZMVFRWUGIwNUVVVEZ1VjNoWVkwMHdha1pKWVZrNFQyZHJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EWTRNRE15Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tXVzF1V0d0U1lrMUdWVTlNTjJaNGRDdFNiVm94V1drNGJtWXpZMlpvYWpGRFMyRmFka2RLVVRSSGVFRkpiM0pvUTBaclNXeG5TWGN3ZUhjek5YVm9aQzkyTkhocGFGTkdXVWNyUzBoVWNGVnVablkwUW5jOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.5/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBaU2J6UTRkblZEYVVwRE0zWnlNR05JTlVoclNITnBSaTlXWW5WblZXTXlaMEpETW01UE4wVnpVMU4zTm5SdVpDdHZiRmhuYTJaaU4waEhabFZ5YWpBck0wWllOR1pRWlc4MFNsVXdTbmxLUmtsR2VsRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EWTROVGsyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tkMUJtVDBFNWMzRlJhMUYwYVRkQllXUnJiVVpUZVRocU9IWmpVWGRwVWtwTFF6TnZiemN2VmpBelRHbENZVEpoYTFGTFZXMDVSU3RJTjJRNU5rUkVha050VkRSWGVscFBNekp1TDNwdFZXbDBZVEl3UkZFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.6/CaTerm.app.tar.gz"
     }
   }
 }
