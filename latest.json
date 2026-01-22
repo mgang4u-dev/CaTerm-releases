@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "v0.3.2: Release\n\n- 업데이트 \"나중에\" 버튼 동작 변경 (다음 실행 시 다시 알림) - 업데이트 알림창 줄 간격 축소 ",
-  "pub_date": "2026-01-21T09:45:10Z",
+  "version": "0.3.3",
+  "notes": "v0.3.3: Release\n\n- 업데이트 \"나중에\" 버튼 동작 변경 (다음 실행 시 다시 알림) - 업데이트 알림창 줄 간격 축소 ",
+  "pub_date": "2026-01-22T06:18:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA1VVQxTldWR2cyWjNCMVVUVjRhVTF1SzNCYWMzQk5iV3N6T1dneFV5dFNVbFppTDBWdVMyWkZZa1F6Y1RSMmRtZHpaakEzTDJ4M1lYQlVTbk51ZUUxaE4yaE5iRFJXZFdVNFpYSlBjMDlCVkZCSWNXZFZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNE9UZzRORGs0Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tOV0U0ZFV4a1dFcFVhM1JuYmxFclNYZ3dXVXN5UjNwNmIyczNNMUFyUjNGaE9ITlBRbXRLV0hOVllYQlRia1ZrYURaM1ExTm5Za3RNVlVrNWF6aDNkVTQyYUVOeVkwdDJXWFZQWlhaTFEydGlMMDVYUWxFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.2/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKclZFUjJPWFkxUlc5TFpEaEdjekZ3UTJVeGEwMWxNbEZ0VlRZNGRGTnBhMGhhU0dwc1dYRmpkR0ZaYkdoeWVUSnZjbXhGY2xwR2NsQlRTRlJZTmk5aE5scHZabGxoY3preFRWQlNObmRFUVU1NWVuZE5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EWXlNelk1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tlV0ZzUldRME16Tk5TbU0wTTJWVU5FdGlka0pQZW5sbWEwUnphbTQxWkhVclRVTnZiSGxzTVhsSmMxZGlVMW8xU1VVeE5VWmhNWGh3ZDBkdVN6TjBhVGN2VVZsYU4zbHVZbXAyU0hOM2RHMVFjV05aUWtFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.3/CaTerm.app.tar.gz"
     }
   }
 }
