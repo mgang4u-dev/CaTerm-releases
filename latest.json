@@ -1,7 +1,7 @@
 {
   "version": "0.4.0",
-  "notes": "v0.4.0: Release\n\n- 데이터 내보내기/가져오기에 바이브코딩 그룹 및 프로젝트 포함 ",
-  "pub_date": "2026-01-23T15:37:57Z",
+  "notes": "v0.4.0: Release\n\n## v0.4.0  ### 새로운 기능 - SSH 연결 중 오버레이: 터미널 중앙에 연결 상태 표시 - 포트포워딩 모달 개선: 10초 카운트다운 후 자동 SSH 연결 - Path bar 인증 아이콘: 모던한 SVG 아이콘으로 변경  ### 개선사항 - 포트포워딩 모달 UI 개선 및 다국어 지원 - 라이트 테마 타이틀바 버튼 스타일 수정 - 빌드 스크립트 자동 커밋 기능 추가 ",
+  "pub_date": "2026-01-23T15:41:11Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA5VGVVczRTMUJrTlZBM1RYbENlRkZzYlhOcWFFSkxPRk51U21WTFltWjRTSEkxYUdvME5ETm1OWGt2YlZKTWRFNW1RMUJUVld4MkwzUnNOSFIxTms5aGNsTkNkRWQwSzNkdGVWTXZSR1ZZU0hoQloxRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1UZ3lOVFl4Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taMFJTWVdOQ2VrOXBielJpYkU1cVpYcDFTSGhrYlhvclZtRjNVMmRJTkVsWk1HcEtWa05HY1dGeVJYUkZVblZ6YTFkUlRWSk1TRmxCT0c5UFUweExTR2gwZFhWR2FucHljVFJPU2xGWU5FVkdPWEZyUkVFOVBRbz0=",
