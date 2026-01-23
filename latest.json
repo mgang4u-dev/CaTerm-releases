@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "v0.4.0: Release\n\n## v0.4.0  ### 새로운 기능 - SSH 연결 중 상태 표시: 터미널 중앙에 연결 진행 상태 표시 - 포트포워딩 자동 연결: 10초 대기 후 자동으로 SSH 연결  ### 개선사항 - 포트포워딩 선택 화면 UI 개선 - Path bar 인증 아이콘 디자인 변경 - 라이트 테마 버튼 스타일 개선 - 다국어 지원 추가 (포트포워딩 모달) ",
-  "pub_date": "2026-01-23T15:44:50Z",
+  "version": "0.4.1",
+  "notes": "v0.4.1: Release\n\n## v0.4.1  ### 개선사항 - 탭 날개 디자인 개선 (radial-gradient 방식) - 새 창/탭 분리 시 vibrancy 효과 적용 - Cmd+1~9 단축키로 탭 전환 지원 - 탭별 사이드바 상태 독립 관리  ### 테마 변경 - 라이트 테마 제거 (Light, Solarized Light) - 테마 이름 변경: Dark Black → Black, Dark Glass → Smoke ",
+  "pub_date": "2026-01-23T18:50:47Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA5VGVVczRTMUJrTlZBM1RYbENlRkZzYlhOcWFFSkxPRk51U21WTFltWjRTSEkxYUdvME5ETm1OWGt2YlZKTWRFNW1RMUJUVld4MkwzUnNOSFIxTms5aGNsTkNkRWQwSzNkdGVWTXZSR1ZZU0hoQloxRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1UZ3lOVFl4Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taMFJTWVdOQ2VrOXBielJpYkU1cVpYcDFTSGhrYlhvclZtRjNVMmRJTkVsWk1HcEtWa05HY1dGeVJYUkZVblZ6YTFkUlRWSk1TRmxCT0c5UFUweExTR2gwZFhWR2FucHljVFJPU2xGWU5FVkdPWEZyUkVFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.4.0/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBwMlR6TlVNRlJrZEZaV1NWQlNlV1ptZVUxNWIxaHFZVlJVSzNSRlVHY3pPVUkxZW1aQ2RXeGFlVVZTVkhKU2JsVmlRMDl1UzBaak1WcHBkMHg2TXpSRFNVSlViblpYYmk4eWVqUTRMM1J6TUhkQ1RGRkpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1UazBNVEUyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjekJ2V2xOSGRESjVhMWc0YjFKdlJsWjVSVGwyZG5oV1UySllWSGhwWTNvME1XZGpSMnQ2TjNCRU4wWkpaV3hJWjNWUmVubzViV3hpZEROblFrbHdlVzVyUlRKb05FcHJZVmd3TlRSbEwzaGxNRlZZUTBFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.4.1/CaTerm.app.tar.gz"
     }
   }
 }
