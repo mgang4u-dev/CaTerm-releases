@@ -1,11 +1,11 @@
 {
-  "version": "0.3.19",
-  "notes": "v0.3.19: Release\n\n- 데이터 내보내기/가져오기에 바이브코딩 그룹 및 프로젝트 포함",
-  "pub_date": "2026-01-22T10:10:12Z",
+  "version": "0.4.0",
+  "notes": "v0.4.0: Release\n\n- 데이터 내보내기/가져오기에 바이브코딩 그룹 및 프로젝트 포함 ",
+  "pub_date": "2026-01-23T15:37:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBVeU1GWmxiVkZoVEV4SWVtNWFXa3BuVmtSSVEwdzJSblp5WjFCU01GbDVjR3hzZFhsS2JGYzNSWFZ6YkdaclJHWklTR2h0VERaS2JtMUVaRXRoVkVsdlJWQmllbVZPZGtkR05ESlpWRE01WWxOalkwRTRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1EYzJORE15Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tPR0ozTDI5VVdVRjJlbkpLZVVSd09IZzBUelpLYm5wdFR6TkVTbU5NVm5nNFZqVkNWbFpVVTBOaFFXMTRZVWRrUVRGSmVtNTZUV3RqZVRFeWFuWlFUMGhCTWt3NFVrVjVZMjVqY1dKelR6WXpTRFZIUkdjOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.3.19/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA5VGVVczRTMUJrTlZBM1RYbENlRkZzYlhOcWFFSkxPRk51U21WTFltWjRTSEkxYUdvME5ETm1OWGt2YlZKTWRFNW1RMUJUVld4MkwzUnNOSFIxTms5aGNsTkNkRWQwSzNkdGVWTXZSR1ZZU0hoQloxRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1UZ3lOVFl4Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taMFJTWVdOQ2VrOXBielJpYkU1cVpYcDFTSGhrYlhvclZtRjNVMmRJTkVsWk1HcEtWa05HY1dGeVJYUkZVblZ6YTFkUlRWSk1TRmxCT0c5UFUweExTR2gwZFhWR2FucHljVFJPU2xGWU5FVkdPWEZyUkVFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.4.0/CaTerm.app.tar.gz"
     }
   }
 }
