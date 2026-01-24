@@ -1,11 +1,11 @@
 {
-  "version": "0.4.2",
-  "notes": "v0.4.2: Release\n\n## v0.4.2  ### 신규 기능 - 튜토리얼 시스템 추가 (첫 실행 시 자동 시작)   - 서버 등록 가이드   - 프로젝트 등록 가이드   - 환경설정 소개   - 환경설정에서 튜토리얼 ON/OFF 가능  ### 개선사항 - 데이터 초기화 시 튜토리얼 상태도 함께 초기화  ## v0.4.1  ### 개선사항 - 탭 날개 디자인 개선 (radial-gradient 방식) - 새 창/탭 분리 시 vibrancy 효과 적용 - Cmd+1~9 단축키로 탭 전환 지원 - 탭별 사이드바 상태 독립 관리  ### 테마 변경 - 라이트 테마 제거 (Light, Solarized Light) - 테마 이름 변경: Dark Black → Black, Dark Glass → Smoke ",
-  "pub_date": "2026-01-23T21:45:10Z",
+  "version": "0.4.3",
+  "notes": "v0.4.3: Release\n\n## v0.4.3  ### 신규 기능 - 경로바에 Git 정보 표시   - 현재 브랜치명   - 변경된 파일 수   - GitHub/GitLab/Git 아이콘 구분  ### 개선사항 - 튜토리얼 다국어 지원 (영어, 한국어, 일본어)  ## v0.4.2  ### 신규 기능 - 튜토리얼 시스템 추가 (첫 실행 시 자동 시작)   - 서버 등록 가이드   - 프로젝트 등록 가이드   - 환경설정 소개   - 환경설정에서 튜토리얼 ON/OFF 가능  ### 개선사항 - 데이터 초기화 시 튜토리얼 상태도 함께 초기화  ## v0.4.1  ### 개선사항 - 탭 날개 디자인 개선 (radial-gradient 방식) - 새 창/탭 분리 시 vibrancy 효과 적용 - Cmd+1~9 단축키로 탭 전환 지원 - 탭별 사이드바 상태 독립 관리  ### 테마 변경 - 라이트 테마 제거 (Light, Solarized Light) - 테마 이름 변경: Dark Black → Black, Dark Glass → Smoke ",
+  "pub_date": "2026-01-24T02:18:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBzeVpVWm5jRlpTUkc5aFZ6YzNSV05GTlVKc1dWSnFRazFDS3pOd1dXOUhVWEZuV0hKM1RHRnJNMlJvZURaRloyVlhiRlJtVVVoTVJXcFFVVzh2ZW5kMFFYZE1kVkpXVWtSUVVHTlhTemh6Um05RmQxRjNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1qQTBOVGc0Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tVbkl5ZGlzNWJqZGFkRkkyVjJWMVVtVklkMU1yWjJ0eVRtMW5hemd2UTFsaGNXcHNjV295TDFGUFVGSkNhelZwVFN0eVNGY3pjRkZPVkdsS1pFaEpTelVyYUZnelpUbERjVEZTSzBGeWJuUkdORmxWUTNjOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.4.2/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA1SFpXcG1VMjlJY0VWNlZqbDZOWFU0YlVvelRFZHlTbmt5VTJWRk1tVjJhemxPY3poUFNFMDNRVEZ1YjFNMWJ6SlBZMUJyU1d0VmRXaHJNMlkyY3pVMk5HcEliSEJJWkdobFIyNUlNa1pqU25sbU5WRm5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpZNU1qSXdPVGMyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tMeXRvVlZSMVRHVTVNVzF3TVdGWllYcDRNR3ROWkhsRVdIZG1VRGQ1V1RKMGMzcHhlbmRFUzBWT1VtVmplRWxtT1V0YVYzUnJTbVJDY1c1b05uaE9ZV3BhYzFVeGN6ZG5iMlZJTTNObEswaHVjbXBZUkZFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.4.3/CaTerm.app.tar.gz"
     }
   }
 }
