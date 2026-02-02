@@ -1,11 +1,11 @@
 {
-  "version": "0.5.18",
-  "notes": "v0.5.18: Release\n\n## v0.5.18  ### 버그 수정 - Smoke 테마에서 SFTP 패널이 투명 처리되지 않던 문제 수정 ",
-  "pub_date": "2026-02-02T03:33:15Z",
+  "version": "0.5.19",
+  "notes": "v0.5.19: Release\n\n## v0.5.19  ### 개선사항 - 터미널 창 크기 조절 시 스크롤 위치 안정성 개선 ",
+  "pub_date": "2026-02-02T03:37:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA1TFMwaHRVMFJtZEhORllXRnZPVXBNYWs4eVRubEdVVkZWV2tneVNtMDVXblZETTBwWmNsUndUU3N6YUZOc1UzVk1UM2hSVFhaaVFVdE5RV3BPYVZOeVlqSmtOR3R2Uld0dFoyRk5iMmx3Y21aRGJVRTRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01EQXlPREl6Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tiamxhYW04d1dWSTFZVEpsY1ZKcGFYcFRjMjl1VjNOVFRHTjRXbWhSWmpZck9XbEZlRlJMUWpWbk5FTnFUV3h1WXprdlowZHZSM0V3TVZRMllVWkNaakpCV0dOSE5YcGpTWEU0UXpoV2IySlNibXQwUVdjOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.5.18/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBWMVYzQmpZblpDWkVvck9HRlFjMDVwYWtVemMxUTBkM2RtY0d0SVNFdHRjRnBIYURkSlNtMXdNVVZVVVRCUVJIZGlkM00zYlhRMVYxaEhjR1o0VFRacVVqTmlZamg1Y2xoUU9HWnBRVUZ4Ym14dGVHYzRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01EQXpNekl4Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tLMVJJTVdob1JqVlhaRFZWTjIxMlUzQkxVV1pRVDJ4M2VqTlFPV2xGUmtOclNVMXVWVTFrVTFVMlNYUlRNRTlCTkZKV09VcE1lRzgwVG1acEwwTXhURGRMU0ZCM2NqUkRUREZDVlVOWk9FVlRLM1k1UVZFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.5.19/CaTerm.app.tar.gz"
     }
   }
 }
