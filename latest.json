@@ -1,11 +1,11 @@
 {
-  "version": "0.5.22",
-  "notes": "v0.5.22: Release\n\n## v0.5.22  ### 개선사항 - 터미널 창 크기 조절 시 스크롤 위치 안정성 개선  ### 버그 수정 - Glass/Smoke 테마에서 SFTP 컨텍스트 메뉴, 자동완성, 정렬 메뉴 투명 처리 ",
-  "pub_date": "2026-02-02T04:26:29Z",
+  "version": "0.5.23",
+  "notes": "v0.5.23: Release\n\n## v0.5.23  ### 개선사항 - 터미널 창 크기 조절 시 스크롤 위치 안정성 개선  ### 버그 수정 - Glass/Smoke 테마에서 SFTP 컨텍스트 메뉴, 자동완성, 정렬 메뉴 투명 처리 - 원격/프로젝트 활성화 설정 변경 시 타이틀바 버튼 즉시 갱신 ",
+  "pub_date": "2026-02-02T04:51:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA1M2VETkthbU5vZDFoRVZVSjNSU3RDUkVWQmRGUnpZbWhwVjJZMmJXTjZXbWcwYjNKYVowdEllbE5aUTNkeWJqUkxRMGM1UjJkRVlYZFRhMFpIVFRaNlEzRnNlR2w2V1RSU2QxUjNlRGxxVjNoUGRHZFpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01EQTJNamN3Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tXRmxaVlhSS1NsZE1lSEZOTTNoa2JFczVaREJwTVdJNWNrczFjVXAzTWs5bGIzWkZTR3BTTnpWR1owUXpWMWN5TmtKUWJEQXpNSEZPUWpKbGMwOXpZV3d5UW5CTGVVSlpha1ZuSzJzclNsZGtjRmR6UVVFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.5.22/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBJMlYwWmhlRTFSUWtrNFRuVnhhVlFyYzBORFlWQnNkVE12VFRGNFIxTmtMMEp3U2pkSFUyWnJjRWx3U2xWallXSkJXR1JIUmxaMmVIQXdja1k0VTJGcFYxVm9NbVZoWTBvNWRHSXJSMDlHU3pWQlIxRjNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01EQTNOell3Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tUWGRaVmtrMEwzWnpPSFoyZEc5WU1FRnNkMEZxTm5Gc1dqbEtkVzlyUTBVeFpWcFpOekZyYmpSUFVFWlJWMDFIWW1sRk5tOVpNRWxZWkZWRE1rSjZhalZVY0U1QmVsbGFia3B0V20xSVUzbFhUMVl2UW1jOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.5.23/CaTerm.app.tar.gz"
     }
   }
 }
