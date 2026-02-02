@@ -1,11 +1,11 @@
 {
-  "version": "0.6.2",
-  "notes": "v0.6.2: Release\n\n## v0.6.2  ### 신규 기능 - 인증 방식 3가지 지원: 비밀번호 묻기, 비밀번호(저장), 키 파일 - 비밀번호 묻기 선택 시 접속할 때마다 비밀번호 입력  ### 개선사항 - 키 파일 인증 선택 시 SSH 키 미선택 상태로 저장 방지 ",
-  "pub_date": "2026-02-02T06:30:08Z",
+  "version": "0.6.3",
+  "notes": "v0.6.3: Release\n\n## v0.6.3  ### 신규 기능 - 탭 드래그로 순서 변경 가능 (크롬 브라우저처럼) - 탭 오버플로우 메뉴에서 탭 닫기 버튼 추가  ### 개선사항 - 탭 드래그 시 노란색 위치 표시 인디케이터 - SFTP 탭 분리 시 파일 브라우저 스타일 프리뷰 표시 - 글래스/스모크 테마에서 오버플로우 메뉴 불투명 처리  ### 버그 수정 - SSH/SFTP 탭에서 Git 정보가 잘못 표시되던 문제 수정 - 탭 드래그 프리뷰 모드 전환 안정성 개선 ",
+  "pub_date": "2026-02-02T09:22:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA5d1FWRjRTWFZXYjFaVldrWk5hMk5NT0VGWkt6QjNLMUJxY3pOVmVuRmtielF2YTBsblIzVldaRVkzUjA4dmJrWjRTamQzVm5OelVXbFRWVGxGSzFkalZFTndTemhHYzNkaFNHTktNMGhXTHpSSVZrRkZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01ERXpORGcwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tWRTl2V1RGR09YZHpPRzV6YzNkWGEyaDZUVzltVGxOVGEwSTJla2R4YmpjNVNUTm9SVXRQSzNka2VraFNVRmRwYVdGc05GbzJPRVl5Y2t4UmMxQXhkRWd6VFhaNFZUUXJMMmg0WlhWS1owVjJUMnRxUTFFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.2/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBGdldFWllOVEpDTUVKME5VSk9UamRCVjFsamIwc3dRbVZGZFhoaFR5OUtPRVJ0WVV0cFVEbFlNa2xwY1hncmREQmxSbGRMY0ZKa09WWnZPVmgzVW5vNWJVZEVaMFEwYjNkcU9URjNNRnB1VVRSR2RFRmpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01ESTBNREkxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tabWRTVFRkV01sUlBTMkZCTjFSdWJITXpaM0JUT0VSblYyRmpSakUzZUVnM1ptMURVbFpvWXpKbUwzY3hXVGhsVTFCVlNtbGxiVTg0WkRWdllWb3hZV3hFVm5CQ1lrUm9WVlE1VjBObmNDdG5kemhLUW5jOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.3/CaTerm.app.tar.gz"
     }
   }
 }
