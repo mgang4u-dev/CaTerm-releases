@@ -1,11 +1,11 @@
 {
-  "version": "0.6.1",
-  "notes": "v0.6.1: Release\n\n## v0.6.1  ### 개선사항 - 튜토리얼 모드 ON 시 5초 카운트다운 후 앱 재시작 (취소 가능) - 튜토리얼 모드 ON 시 원격/프로젝트 자동 활성화 - 튜토리얼 진행 중 해당 스텝 외 버튼 비활성화 - 튜토리얼 중 환경설정 진입 시 타이틀바 정상 숨김 처리 ",
-  "pub_date": "2026-02-02T06:00:19Z",
+  "version": "0.6.2",
+  "notes": "v0.6.2: Release\n\n## v0.6.2  ### 신규 기능 - 인증 방식 3가지 지원: 비밀번호 묻기, 비밀번호(저장), 키 파일 - 비밀번호 묻기 선택 시 접속할 때마다 비밀번호 입력  ### 개선사항 - 키 파일 인증 선택 시 SSH 키 미선택 상태로 저장 방지 ",
+  "pub_date": "2026-02-02T06:30:08Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKU1pFMUNXVTFWYUZWbFNETlhha1UyYWxCWFVtcFhPRXRrVVVOMlFuWkdTVmg1ZEV4YWFVeEZUamR2Y0VaR2JHeDRVWEU1ZERWc2NuUndhblJMZUd0YVVFRmpjMDQ1YkcxUGRYWXdjMXByTUdsNE0wRnJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01ERXhOekkyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taVWw2UVc0ME1qWktWM2hLUW5aWWIwSldjRE5UTnpsd2FtMW9ZMjh4WkN0dFJVaG5WSE5JTVdGbmNXRjJUelpFT1d0aVoySXlZMjVNVW5oRmJFZ3JWR1UwZUVkQkt6QXZTR2N3VUdOYVEyWlpVMHRUUkVFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.1/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA5d1FWRjRTWFZXYjFaVldrWk5hMk5NT0VGWkt6QjNLMUJxY3pOVmVuRmtielF2YTBsblIzVldaRVkzUjA4dmJrWjRTamQzVm5OelVXbFRWVGxGSzFkalZFTndTemhHYzNkaFNHTktNMGhXTHpSSVZrRkZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01ERXpORGcwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tWRTl2V1RGR09YZHpPRzV6YzNkWGEyaDZUVzltVGxOVGEwSTJla2R4YmpjNVNUTm9SVXRQSzNka2VraFNVRmRwYVdGc05GbzJPRVl5Y2t4UmMxQXhkRWd6VFhaNFZUUXJMMmg0WlhWS1owVjJUMnRxUTFFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.2/CaTerm.app.tar.gz"
     }
   }
 }
