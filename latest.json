@@ -1,11 +1,11 @@
 {
-  "version": "0.5.20",
-  "notes": "v0.5.20: Release\n\n## v0.5.20  ### 개선사항 - 터미널 창 크기 조절 시 스크롤 위치 안정성 개선 ",
-  "pub_date": "2026-02-02T04:02:22Z",
+  "version": "0.5.21",
+  "notes": "v0.5.21: Release\n\n## v0.5.21  ### 개선사항 - 터미널 창 크기 조절 시 스크롤 위치 안정성 개선 ",
+  "pub_date": "2026-02-02T04:17:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBWRFZrRlVUa1UzVDJwNlRVZDZUR05RWmtGUmRWZExjR1JXYVhSblZHbEpORE5rWlhOc1NrdzNiRnBWWTJ4NkszQXJkWEZLZWxjNWVXcFZUbXR5VkdsTWFHaExWMGxZZFZJNVNVdGlNM1pwZFVrM1luZGpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01EQTBPREU1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tTVGhQV0hSV1EyNDNTakpMUm0xUFRsSkRUM0JNY1RBNFVYcDBXak4wYUVsQkwzRnhUbmRXVTJGV1kwaG1Na0ozVFVGQloxSjBUbTFQZENzNU5XRkJaa05EUTFoaVQwNUlLMEU1ZVhodWRFdG1lVXgyUW1jOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.5.20/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBoS05YcG9USFpaVWl0b1RWbzRTM3BrUWxBclZrMTVhSGxxU2tkWlZIQXhlREoyVlVaU1RXaFZTbFJwTDFCMlFsRndWRGN6WlVWdVUyd3ZWak5SYVhORWFETlZNWFJWWkd0S1ZuVm9PVlI1WVM5WWVVRk5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01EQTFOekUxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjWGdyZUdSNlpHeDJRVWRZWTJwRGFWUXdWalpaYkdWbVFsb3pMMWhpVW10M1ltMUxXQzlWUmxwR05UVkpaM0paUjFwclN6TlBVR2hTWm1kc1kzaHpTV2t5ZWk5WldtaEZOVU5PV1dadGIyTlJWRVZqUVhjOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.5.21/CaTerm.app.tar.gz"
     }
   }
 }
