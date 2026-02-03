@@ -1,11 +1,11 @@
 {
-  "version": "0.6.3",
-  "notes": "v0.6.3: Release\n\n## v0.6.3  ### 신규 기능 - 탭 드래그로 순서 변경 가능 (크롬 브라우저처럼) - 탭 오버플로우 메뉴에서 탭 닫기 버튼 추가  ### 개선사항 - 탭 드래그 시 노란색 위치 표시 인디케이터 - SFTP 탭 분리 시 파일 브라우저 스타일 프리뷰 표시 - 글래스/스모크 테마에서 오버플로우 메뉴 불투명 처리  ### 버그 수정 - SSH/SFTP 탭에서 Git 정보가 잘못 표시되던 문제 수정 - 탭 드래그 프리뷰 모드 전환 안정성 개선 ",
-  "pub_date": "2026-02-02T09:22:42Z",
+  "version": "0.6.4",
+  "notes": "v0.6.4: Release\n\n## v0.6.4  ### 신규 기능 - SSH 연결 끊김 시 재연결 버튼 표시 (탭 자동 닫힘 대신) - SFTP 작업 중 연결 끊김 자동 감지 및 재연결 안내 - 탭 오버플로우 메뉴에서 드래그로 순서 변경 및 창 분리 지원  ### 개선사항 - SFTP 연결 상태 체크 주기 최적화 (30초 간격, 10초 타임아웃) - 연결 끊김 상태에서 닫기 버튼 즉시 반응하도록 개선  ### 버그 수정 - 오버플로우 메뉴에서 창 분리 시 창이 2개 생성되던 문제 수정 ",
+  "pub_date": "2026-02-03T01:43:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBGdldFWllOVEpDTUVKME5VSk9UamRCVjFsamIwc3dRbVZGZFhoaFR5OUtPRVJ0WVV0cFVEbFlNa2xwY1hncmREQmxSbGRMY0ZKa09WWnZPVmgzVW5vNWJVZEVaMFEwYjNkcU9URjNNRnB1VVRSR2RFRmpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01ESTBNREkxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tabWRTVFRkV01sUlBTMkZCTjFSdWJITXpaM0JUT0VSblYyRmpSakUzZUVnM1ptMURVbFpvWXpKbUwzY3hXVGhsVTFCVlNtbGxiVTg0WkRWdllWb3hZV3hFVm5CQ1lrUm9WVlE1VjBObmNDdG5kemhLUW5jOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.3/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB0dmRuWlVXa0YyWm5keVZpODBiMFYyTUhORlkxbEdlSEp3TUZadWRuZDNkVmd5YlVGa1lXbGtlRk5OV0VScWREaHRVMVpWZEhKUVpsZHdWMkp5UkU1aVpHMTFhREZDUnk5MVUwNUhUVEkxU2xrMGFFRTRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01EZ3lPRGsxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjR042TUVaTVJsWjZXQ3RoY3pkMWNHUkJaVWhhVm1OYU5XWmxiRk14VFVzcmVHcFlSSFJZTkhVdlVVSlpabWhNY0VadE1sTm9TMGxyU0VWaVlVRTJVRzVJYVROSFYyOW1MMWh4WkdwR1Z5dHBZVzlMUkVFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.4/CaTerm.app.tar.gz"
     }
   }
 }
