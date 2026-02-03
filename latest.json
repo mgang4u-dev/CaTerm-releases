@@ -1,11 +1,11 @@
 {
-  "version": "0.6.4",
-  "notes": "v0.6.4: Release\n\n## v0.6.4  ### 신규 기능 - SSH 연결 끊김 시 재연결 버튼 표시 (탭 자동 닫힘 대신) - SFTP 작업 중 연결 끊김 자동 감지 및 재연결 안내 - 탭 오버플로우 메뉴에서 드래그로 순서 변경 및 창 분리 지원  ### 개선사항 - SFTP 연결 상태 체크 주기 최적화 (30초 간격, 10초 타임아웃) - 연결 끊김 상태에서 닫기 버튼 즉시 반응하도록 개선  ### 버그 수정 - 오버플로우 메뉴에서 창 분리 시 창이 2개 생성되던 문제 수정 ",
-  "pub_date": "2026-02-03T01:43:40Z",
+  "version": "0.6.5",
+  "notes": "v0.6.5: Release\n\n## v0.6.5  ### 개선사항 - macOS Dock 우클릭 메뉴에 현재 활성 탭 이름 표시 ",
+  "pub_date": "2026-02-03T04:00:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB0dmRuWlVXa0YyWm5keVZpODBiMFYyTUhORlkxbEdlSEp3TUZadWRuZDNkVmd5YlVGa1lXbGtlRk5OV0VScWREaHRVMVpWZEhKUVpsZHdWMkp5UkU1aVpHMTFhREZDUnk5MVUwNUhUVEkxU2xrMGFFRTRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01EZ3lPRGsxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjR042TUVaTVJsWjZXQ3RoY3pkMWNHUkJaVWhhVm1OYU5XWmxiRk14VFVzcmVHcFlSSFJZTkhVdlVVSlpabWhNY0VadE1sTm9TMGxyU0VWaVlVRTJVRzVJYVROSFYyOW1MMWh4WkdwR1Z5dHBZVzlMUkVFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.4/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA5alYzVXZiSFp3Vm0xQ1dVUm1ZV2cwV1RkcmRHRXZTRGhhWmpsM1UxQnVZMlI1WTFwcE5WbEZiRkJRZEZSeE1GTnJja3R6TlZoMlNsUk1TMWRtTW5relQzbHpNSFpFY1ZJd1kxaGhWbVZsWnk5SlUwRjNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01Ea3hNRGcwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjRTVuTjFRNVVHdHBhbXRTUVZOWlNGZElWRTQwT0ZsSlNETkthMGRoVHpWbVNrUlNOMlJoTm14NmNuZFlNVzlKSzNOclkydDVOSGQ0TUd4UmF6RTFOa1JFTDBSa00yRkNVM1ZRTjJWUmR6bHhjbnBoUWtFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.5/CaTerm.app.tar.gz"
     }
   }
 }
