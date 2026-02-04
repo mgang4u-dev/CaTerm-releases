@@ -1,11 +1,11 @@
 {
-  "version": "0.6.6",
-  "notes": "v0.6.6: Release\n\n## v0.6.6  ### 신규 기능 - 터미널 우클릭 메뉴에 'Finder에서 열기' 추가 - SFTP 로그 패널 우클릭 메뉴 추가 (복사, 지우기)  ### 개선사항 - 불필요한 진행 상태 표시줄 제거 ",
-  "pub_date": "2026-02-04T01:21:28Z",
+  "version": "0.7.0",
+  "notes": "v0.7.0: Release\n\n## v0.7.0  ### 신규 기능 - 터미널 분할 뷰 (탭 드래그로 좌/우 분할) - 분할 터미널별 독립 Git 패널 지원 - 분할 터미널별 독립 검색 (Cmd+F) 지원  ### 개선사항 - 터미널 검색창 UI 개선 - 검색 하이라이트 색상 개선 - 분할 터미널 하단 커서 겹침 문제 수정 - Smoke/Glass 테마 분할 뷰 호환성 개선 ",
+  "pub_date": "2026-02-04T11:38:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKa1JrRXplVXhtWkVsbFVpOVFaVFpMTVZkU09GcEdPVm95TXpoYVkyczJZVVV6ZVVaNlp6QXZjblJST0UxRVNYUmhjbWRMVWpkMlpqUktNVUpLWms5ckx6TjBPVlZGTWtsblNYSlZOek01TXpCWWNYYzBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01UWTNPRE15Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tTbkpPVlV4RU1rZ3hTemxLT0ZORmNtOUxTRWhXWW00MmVUZzNkalIwV0hkbGVsTmlWVVJQWkZaQk1ERTNUVlUxUW14dFJFZFVXWEY1Vmk5dk9WUnVRVFpQYkdoS1VsWjBOM2MzZURkQ1RWaEtTVk5zUkdjOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.6/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBjeUswaDVhelZOYTBkeWVtNWpRVFJXV1RsWlFuaHpjMnhwUjFrNVVVSkdiMHROVEdkcWFYZHRZbk5EVjNSTldTODNMMDFHYlhCemRVOWthbHBLUm1wQ2MwUnhZblZOVFdWNVRubzNTMWxFUkRVeVMwRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01qQTFNREkwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tieXR2YkdVeVNHdzFNbVU1ZUVsMFRXMWhNWFJ5TjJFeldVOXVTREZNUmsxYVpUZzJVSHBoTkRsM1VIcHdUVkZHUm5oSGJHTnVSV0pFUW1kd01ESjJZM2xRUkVKMWJuWkVVeTlGVUV0Nk0yOUhRU3RwUVhjOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.0/CaTerm.app.tar.gz"
     }
   }
 }
