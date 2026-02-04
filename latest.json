@@ -1,11 +1,11 @@
 {
-  "version": "0.6.5",
-  "notes": "v0.6.5: Release\n\n## v0.6.5  ### 개선사항 - macOS Dock 우클릭 메뉴에 현재 활성 탭 이름 표시 ",
-  "pub_date": "2026-02-03T04:00:03Z",
+  "version": "0.6.6",
+  "notes": "v0.6.6: Release\n\n## v0.6.6  ### 신규 기능 - 터미널 우클릭 메뉴에 'Finder에서 열기' 추가 - SFTP 로그 패널 우클릭 메뉴 추가 (복사, 지우기)  ### 개선사항 - 불필요한 진행 상태 표시줄 제거 ",
+  "pub_date": "2026-02-04T01:21:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA5alYzVXZiSFp3Vm0xQ1dVUm1ZV2cwV1RkcmRHRXZTRGhhWmpsM1UxQnVZMlI1WTFwcE5WbEZiRkJRZEZSeE1GTnJja3R6TlZoMlNsUk1TMWRtTW5relQzbHpNSFpFY1ZJd1kxaGhWbVZsWnk5SlUwRjNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01Ea3hNRGcwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjRTVuTjFRNVVHdHBhbXRTUVZOWlNGZElWRTQwT0ZsSlNETkthMGRoVHpWbVNrUlNOMlJoTm14NmNuZFlNVzlKSzNOclkydDVOSGQ0TUd4UmF6RTFOa1JFTDBSa00yRkNVM1ZRTjJWUmR6bHhjbnBoUWtFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.5/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKa1JrRXplVXhtWkVsbFVpOVFaVFpMTVZkU09GcEdPVm95TXpoYVkyczJZVVV6ZVVaNlp6QXZjblJST0UxRVNYUmhjbWRMVWpkMlpqUktNVUpLWms5ckx6TjBPVlZGTWtsblNYSlZOek01TXpCWWNYYzBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01UWTNPRE15Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tTbkpPVlV4RU1rZ3hTemxLT0ZORmNtOUxTRWhXWW00MmVUZzNkalIwV0hkbGVsTmlWVVJQWkZaQk1ERTNUVlUxUW14dFJFZFVXWEY1Vmk5dk9WUnVRVFpQYkdoS1VsWjBOM2MzZURkQ1RWaEtTVk5zUkdjOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.6.6/CaTerm.app.tar.gz"
     }
   }
 }
