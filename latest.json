@@ -1,11 +1,11 @@
 {
-  "version": "0.7.2",
-  "notes": "v0.7.2: Release\n\n## v0.7.2  ### 개선사항 - 분할 터미널 Git 패널 브랜치 우클릭 메뉴 수정 - 분할 터미널 브랜치 클릭 시 자동 체크아웃 방지 (우클릭 메뉴로만 전환) - 같은 프로젝트 분할 시 Git 패널 중복 실행 방지 - 다국어 지원 추가 (Git 스테이징 메시지) ",
-  "pub_date": "2026-02-05T04:42:57Z",
+  "version": "0.7.3",
+  "notes": "v0.7.3: Release\n\n## v0.7.3  ### 개선사항 - 터미널 웹 링크 클릭 시 기본 브라우저에서 열리도록 수정 - 분할 터미널 컨텍스트 메뉴 구분선 누락 수정 - SFTP 탭 창 분리/합체 후 화면이 표시되지 않는 문제 수정 ",
+  "pub_date": "2026-02-05T05:07:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBrM1pHeFdNVU5uU3pOME9UaEdUVzlWYjFaWVRYWnlkVkV3ZUdkT1NXTkpXV2QzYURWbE9YWnFTM0Z0UTBwREwxUTVRMVJ1YjFkc2VrSk5UME5vSzFSTVdHZzFTMUk0Y1Roc2JGSlNZVVpCTkRoa2NtZHpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01qWTFNRE0xQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0thbU40UmtGQ1JuVllZa1JPYmxOVVptWXhlR2s0SzBOb2FEUlFUM2xTUVd0WFNEVnRNWE40TVdOSlRITjZNR2hDUkd4QlprYzFUMjlxZUVZclN6bFFhemgzU21SSE1UQlRVV2hWTUZwRVJGWkdVakEzUTBFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.2/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBoQk9FazBRbEZDYWtreFNrTnFabWx0TkZaelYwMW1RMnBHUjJFeFZ5czVWbXRYVWxkTVdUWkhjRVJ4YUZKemVVNUZRVmRGUTJ0RVpWUlNkSEp3ZWtOeVJtbERjVGR3ZVdwNEswZ3pOR2M1ZUdVM1ZVRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01qWTNPVEkzQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tWMHN3UVdSWWJGbFNMMEZyVTNsSVZWUkRUVkJDTnpKMlJpODFXbEI0YldKcGVHVklOalpYWnpSMU5WY3lXbXR2VkdScFRWTjNkR3cyWlhwQlVFaHlXRVI1WTFsWWFURkVVbWhITW5Zd1JGWkJiVFZtUVZFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.3/CaTerm.app.tar.gz"
     }
   }
 }
