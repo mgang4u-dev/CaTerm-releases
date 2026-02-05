@@ -1,10 +1,10 @@
 {
   "version": "0.7.2",
   "notes": "v0.7.2: Release\n\n## v0.7.2  ### 개선사항 - 분할 터미널 Git 패널 브랜치 우클릭 메뉴 수정 - 분할 터미널 브랜치 클릭 시 자동 체크아웃 방지 (우클릭 메뉴로만 전환) - 같은 프로젝트 분할 시 Git 패널 중복 실행 방지 - 다국어 지원 추가 (Git 스테이징 메시지) ",
-  "pub_date": "2026-02-05T04:07:53Z",
+  "pub_date": "2026-02-05T04:42:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjAxcGFEaEZaVFpPUm1nNVVtVnZkelpoZFhCMFVXdDZVRlZIZWpSa1N6VnZhaTlDY2l0a1VqSkRVVXBHVjNOQ2FtMTFRakJpUzNKV05rcEVUbmRCVTJSMGIzTXlTamhhTm5wbllUVmlXWFZoWVRKUksxRjNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01qWTBNelUwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tZVEYwUlRoWldDdE5aWG8ySzB0a1VIcFlOVUZUYlZGc2RWY3ZWaTlCTjJ4TWFsUmljbWRGV0U5eFIyRnVWVzVUZUZOMVoyMDNXa2RDTDNKcmVFcENNRk5xTTFSb1VrSndOemh5YzNVM2RYbFJRM1p0UW1jOVBRbz0=",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBrM1pHeFdNVU5uU3pOME9UaEdUVzlWYjFaWVRYWnlkVkV3ZUdkT1NXTkpXV2QzYURWbE9YWnFTM0Z0UTBwREwxUTVRMVJ1YjFkc2VrSk5UME5vSzFSTVdHZzFTMUk0Y1Roc2JGSlNZVVpCTkRoa2NtZHpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01qWTFNRE0xQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0thbU40UmtGQ1JuVllZa1JPYmxOVVptWXhlR2s0SzBOb2FEUlFUM2xTUVd0WFNEVnRNWE40TVdOSlRITjZNR2hDUkd4QlprYzFUMjlxZUVZclN6bFFhemgzU21SSE1UQlRVV2hWTUZwRVJGWkdVakEzUTBFOVBRbz0=",
       "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.2/CaTerm.app.tar.gz"
     }
   }
