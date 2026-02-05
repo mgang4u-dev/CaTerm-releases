@@ -1,11 +1,11 @@
 {
-  "version": "0.7.1",
-  "notes": "v0.7.1: Release\n\n## v0.7.1  ### 개선사항 - 외부 아이콘(Claude, Gemini) 로컬 저장으로 오프라인 지원 - 일반 터미널 Git 패널 커밋 상세 표시 오류 수정 - 분할 터미널과 일반 터미널 간 Git 패널 ID 충돌 수정 ",
-  "pub_date": "2026-02-05T02:30:20Z",
+  "version": "0.7.2",
+  "notes": "v0.7.2: Release\n\n## v0.7.2  ### 개선사항 - 분할 터미널 Git 패널 브랜치 우클릭 메뉴 수정 - 분할 터미널 브랜치 클릭 시 자동 체크아웃 방지 (우클릭 메뉴로만 전환) - 같은 프로젝트 분할 시 Git 패널 중복 실행 방지 - 다국어 지원 추가 (Git 스테이징 메시지) ",
+  "pub_date": "2026-02-05T04:07:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBkNVMzbFlVM0pxZDNsaFkxVXhhWGxSSzFjMlJuVmhUMkpSVENzNFozSk1Na1ZOVERkWVJWaEthMkpCVW5VNFFWa3JjMWhaTlVsV2IxcDVPVWR6UVhsdmVtNTVZbU5zWlZZdlkyeHRkMjV2U1RSUVpIZFpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01qVTROVEEyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tZazFwU1doa1ZsTlpTVXBOZEUxc1Ixa3laREpCTkVoaFZTdG5UelpyVFZObVEydFpaVlpsZDBNelNsSnpXa1JNYXpseVpHcHpiRXc1VVhWMFFUVlVNVlJwWm1sQlRWWlhRbUpCUldGMFRsZG9WbGt4UWtFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.1/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjAxcGFEaEZaVFpPUm1nNVVtVnZkelpoZFhCMFVXdDZVRlZIZWpSa1N6VnZhaTlDY2l0a1VqSkRVVXBHVjNOQ2FtMTFRakJpUzNKV05rcEVUbmRCVTJSMGIzTXlTamhhTm5wbllUVmlXWFZoWVRKUksxRjNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01qWTBNelUwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tZVEYwUlRoWldDdE5aWG8ySzB0a1VIcFlOVUZUYlZGc2RWY3ZWaTlCTjJ4TWFsUmljbWRGV0U5eFIyRnVWVzVUZUZOMVoyMDNXa2RDTDNKcmVFcENNRk5xTTFSb1VrSndOemh5YzNVM2RYbFJRM1p0UW1jOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.2/CaTerm.app.tar.gz"
     }
   }
 }
