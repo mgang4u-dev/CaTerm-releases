@@ -1,10 +1,10 @@
 {
   "version": "0.7.0",
   "notes": "v0.7.0: Release\n\n## v0.7.0  ### 신규 기능 - 터미널 분할 뷰 (탭 드래그로 좌/우 분할) - 분할 터미널별 독립 Git 패널 지원 - 분할 터미널별 독립 검색 (Cmd+F) 지원  ### 개선사항 - 터미널 검색창 UI 개선 - 검색 하이라이트 색상 개선 - 분할 터미널 하단 커서 겹침 문제 수정 - Smoke/Glass 테마 분할 뷰 호환성 개선 ",
-  "pub_date": "2026-02-04T11:38:50Z",
+  "pub_date": "2026-02-05T00:36:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBjeUswaDVhelZOYTBkeWVtNWpRVFJXV1RsWlFuaHpjMnhwUjFrNVVVSkdiMHROVEdkcWFYZHRZbk5EVjNSTldTODNMMDFHYlhCemRVOWthbHBLUm1wQ2MwUnhZblZOVFdWNVRubzNTMWxFUkRVeVMwRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01qQTFNREkwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tieXR2YkdVeVNHdzFNbVU1ZUVsMFRXMWhNWFJ5TjJFeldVOXVTREZNUmsxYVpUZzJVSHBoTkRsM1VIcHdUVkZHUm5oSGJHTnVSV0pFUW1kd01ESjJZM2xRUkVKMWJuWkVVeTlGVUV0Nk0yOUhRU3RwUVhjOVBRbz0=",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBabU0zUjBNRGRwWjFGMFlVSlNRUzh5U1d4NWMzTkZNbEY2WTFsSGVYazRUbkF4SzBsWE5YcGlja056WVdRelJrUTVXRWRTUzFneWVsa3JaM0Z2T0Roa1RXSkVSWFJ2TlRGNmVUQklXRkJJVTFaaVRrRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01qVXhOVEU0Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tRV2hDWjFwelIyRlZhM2g0ZUhWNGJIcDVWM2hEYnpRMmVWQlBUR1owVTJoWlV5OUhXRlkwVUZGaGFqbFRVWGhrZDBkNGJrNVFkMXBMZEV4d1FVMHJiR2hvT0hGb1FYWkhWV1JSVm1RMFlVZ3JTM05YUkZFOVBRbz0=",
       "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.0/CaTerm.app.tar.gz"
     }
   }
