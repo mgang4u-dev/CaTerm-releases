@@ -1,11 +1,11 @@
 {
-  "version": "0.7.3",
-  "notes": "v0.7.3: Release\n\n## v0.7.3  ### 개선사항 - 터미널 웹 링크 클릭 시 기본 브라우저에서 열리도록 수정 - 분할 터미널 컨텍스트 메뉴 구분선 누락 수정 - SFTP 탭 창 분리/합체 후 화면이 표시되지 않는 문제 수정 ",
-  "pub_date": "2026-02-05T05:07:39Z",
+  "version": "0.7.4",
+  "notes": "v0.7.4: Release\n\n## v0.7.4  ### 개선사항 - 터미널 폰트 및 테마 개선 (Monaco 우선, ANSI 색상 추가) - 프로젝트를 새 창으로 열 때 일반 터미널로 열리는 문제 수정 ",
+  "pub_date": "2026-02-09T02:01:48Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBoQk9FazBRbEZDYWtreFNrTnFabWx0TkZaelYwMW1RMnBHUjJFeFZ5czVWbXRYVWxkTVdUWkhjRVJ4YUZKemVVNUZRVmRGUTJ0RVpWUlNkSEp3ZWtOeVJtbERjVGR3ZVdwNEswZ3pOR2M1ZUdVM1ZVRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd01qWTNPVEkzQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tWMHN3UVdSWWJGbFNMMEZyVTNsSVZWUkRUVkJDTnpKMlJpODFXbEI0YldKcGVHVklOalpYWnpSMU5WY3lXbXR2VkdScFRWTjNkR3cyWlhwQlVFaHlXRVI1WTFsWWFURkVVbWhITW5Zd1JGWkJiVFZtUVZFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.3/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA4eFdXMVNXVUZLYTNGYWRrOVVUR00zUlRaS1VtODFTV0Z0Y0hGNGRrcDZTbVZzTURZMUwxY3pNbFZOUXl0cFNVTnFZV3c1VGpsdldFNTFMM1ZDWTNGd1MyNXFTREp2U1hwMmVub3ZVR05FYVhWclMwRnJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd05qQXlNemM1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taRTFQVWtWVGNrRk5WbTFCY0ZCYVIzaHlPRmhsWVc5VFltRnZRMGRHUzNSeVpreHNVSEppVDIxR1dtOXJTVW92SzFCcFQyNXlWVTV1WVc1aWVDOUZTMHhWYzJOb1ZFRjBibTEyV2pVNWRsbHpWbEYzUTNjOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.4/CaTerm.app.tar.gz"
     }
   }
 }
