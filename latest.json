@@ -1,11 +1,11 @@
 {
-  "version": "0.7.5",
-  "notes": "v0.7.5: Release\n\n## v0.7.5  ### 개선사항 - 앱 아이콘 개선 (macOS Sequoia 호환성 - 둥근 모서리 정상 표시) - 빌드 시 자동 push 추가 ",
-  "pub_date": "2026-02-09T03:00:49Z",
+  "version": "0.7.6",
+  "notes": "v0.7.6: Release\n\n## v0.7.6  ### 개선사항 - 앱 아이콘 개선 (macOS Sequoia 호환성 - 둥근 모서리 정상 표시, 크기 조정) ",
+  "pub_date": "2026-02-09T03:14:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBOUVkwTnNOSG94VW1sd1lXdDFRV3hoVTJsbE9VdHNiMjF5U1dONVdVbzBLM05xTlRaNFRubHlNak56VVZSSFdscDZSRkF4UTBzNGREbEhkM0pSZWprNVRtNXBLekIzTjNCa1kzaFdZMHR0TVM5eEsyZGpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd05qQTFPVEl6Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taMmxYVm0wMEswWm5TMjUwZFRWT1EwbGhSM001UnpWTVYwSXhkM28yTTBSaWNuaEJaa1JoV0VSVVVEQmhOV3RsY1RkNk5EQkNZM2syZVhkRU5HMDVabVp1YjIxdlpVVkJXVXRJU0c5YWMxVlZMMnRVUVhjOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.5/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBNdlFXWTBSM0ZWU2xOS1YyOWFVVFZ4UzFGd1VrUXpSbkJJZVVwbVlXUmhSRWM0YVdKQ1NUUnJOVVZQTkdSWFNrRmtWekZhYmpsSmFrY3pRMXB5VWxoc1pDdEhkSEZ0UjAxcmNYUlljbTlJT0hWQ2QxRnpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd05qQTJOelU0Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tUVXBJSzFOT1NHRjZVV0Z1Tm1zck1XeEpUemxEU1dSbUwxbzRjRVJST1hCTmIxbGphSEJSU0RCUWRFNU5PRmhSZWpjdlJYTmtkR3c0ZWxkRk1ubGFNRXhGVTBKTEsxTjJXRFV6Y1hGRmEwcFRjMnhKUVdjOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.6/CaTerm.app.tar.gz"
     }
   }
 }
