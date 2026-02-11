@@ -1,11 +1,11 @@
 {
-  "version": "0.7.7",
-  "notes": "v0.7.7: Release\n\n## v0.7.7  ### 신규 기능 - 프로젝트에 tmux 모드 추가 (AI 커넥터 실행 시 tmux 세션 내에서 자동 실행) ",
-  "pub_date": "2026-02-09T03:58:41Z",
+  "version": "0.7.8",
+  "notes": "v0.7.8: Release\n\n## v0.7.8  ### 개선사항 - 터미널 자동 스크롤 안정성 개선 (스트리밍 중 스크롤이 위로 올라가는 문제 수정) - 스크롤 상태 시각 표시 (위로 스크롤 시 스크롤바가 주황색으로 변경) ",
+  "pub_date": "2026-02-11T02:26:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA5NFJuTXdTVXhoYmpVelMwcDRNMlJYU1ZsWFFVUk9kVE5FUzBFd1ZXcGFNMFYzZWtsRU1FeHBWakV6V21WalNDOVhVMDEzYldOR1FYRkpOWGxzU3pSWGJEVnlNbVI2Tmxkak9WTklPREZaV0RscVRIZFpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd05qQTVNVEl6Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0thamt2VkU4clJUbEVlbTlXYzBOM2IzTnBNVkZyWkVWWUt5c3pObXN5VmxkU1lXWkdXQzluWlVoUVRFY3ZZMlJWYTJnMGJuWXJORzFOSzBGMFFVeE1OeTlHVkhodVRFcFRSbVprTURsVlIwTkpNVFpNUVhjOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.7/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBkWVdqSTFTbmxQWmtabVNtZEVkREY1WkVocVVrTTFVbTg0TDBSTFdHRmxRVlpLYWtKRFpsWnRPVE5HYVV0alNqaExUMFJ2VUhNNWVYVkpkMmRqY0hGaFRUQmthMUprYlVsalluZGpTVFo1V1hFdlIzY3dQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd056YzJOalF4Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tlUzhyTjJaVWVIZHJLMnhhUm1KWk5tRjFlRTkzSzI1S2JXbzRSMmR4WmtWdFlVSnhRbEpqYVhaa1JsZzNUMUoyVm5Jd1NXMVdTWHBvWVRkQk5ERk1RelZCZUhVd01USlFjRUk0VUVwYVMwcElTMmgzUTFFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.8/CaTerm.app.tar.gz"
     }
   }
 }
