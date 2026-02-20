@@ -1,11 +1,11 @@
 {
-  "version": "0.7.8",
-  "notes": "v0.7.8: Release\n\n## v0.7.8  ### 개선사항 - 터미널 자동 스크롤 안정성 개선 (스트리밍 중 스크롤이 위로 올라가는 문제 수정) - 스크롤 상태 시각 표시 (위로 스크롤 시 스크롤바가 주황색으로 변경) ",
-  "pub_date": "2026-02-11T02:26:25Z",
+  "version": "0.7.9",
+  "notes": "v0.7.9: Release\n\n## v0.7.9  ### 버그 수정 - 분할 터미널에서 exit 시 나머지 패인이 자동으로 분할 해제되어 독립 탭으로 복원되도록 수정 ",
+  "pub_date": "2026-02-20T02:05:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBkWVdqSTFTbmxQWmtabVNtZEVkREY1WkVocVVrTTFVbTg0TDBSTFdHRmxRVlpLYWtKRFpsWnRPVE5HYVV0alNqaExUMFJ2VUhNNWVYVkpkMmRqY0hGaFRUQmthMUprYlVsalluZGpTVFo1V1hFdlIzY3dQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjd056YzJOalF4Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tlUzhyTjJaVWVIZHJLMnhhUm1KWk5tRjFlRTkzSzI1S2JXbzRSMmR4WmtWdFlVSnhRbEpqYVhaa1JsZzNUMUoyVm5Jd1NXMVdTWHBvWVRkQk5ERk1RelZCZUhVd01USlFjRUk0VUVwYVMwcElTMmgzUTFFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.8/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBONmVUUk9RMVJNTlhKUk9URlJOekJtUm5WU2NERkhiV0pCZVdWWU1tZENZM3BQTUdONFVIcEVVbmhqTDNwVE5IQTRUR3RwV1VSeWQwTlpNM2RXWVhOUlJHdEVTVkpwV1M4d1RWcHdWVGh0VEZkWU4yZEpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE5UVXlPVFUyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0thWHB0U2tsTlMySmhka05sYVRReGFHaHNXR2Q1Y1VjcmRtOURkbnA2Y1c5blZEQnFSV05zT0VaR1Vsa3JUbVJIUTNCdFEzZEdZMHM0VDBwWVVHMTFkbVoyV25WSVIwdGFhMHhaZDFGaFVESldNRzFqUWtFOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.9/CaTerm.app.tar.gz"
     }
   }
 }
