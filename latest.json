@@ -1,11 +1,11 @@
 {
-  "version": "0.7.9",
-  "notes": "v0.7.9: Release\n\n## v0.7.9  ### 버그 수정 - 분할 터미널에서 exit 시 나머지 패인이 자동으로 분할 해제되어 독립 탭으로 복원되도록 수정 ",
-  "pub_date": "2026-02-20T02:05:06Z",
+  "version": "0.8.0",
+  "notes": "v0.8.0: Release\n\n## v0.8.0  ### 개선사항 - 메모리 사용량 최적화 - 장시간 사용 시 메모리 누수 개선 - 탭 종료 시 리소스 정리 강화 ",
+  "pub_date": "2026-02-25T01:33:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBONmVUUk9RMVJNTlhKUk9URlJOekJtUm5WU2NERkhiV0pCZVdWWU1tZENZM3BQTUdONFVIcEVVbmhqTDNwVE5IQTRUR3RwV1VSeWQwTlpNM2RXWVhOUlJHdEVTVkpwV1M4d1RWcHdWVGh0VEZkWU4yZEpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE5UVXlPVFUyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0thWHB0U2tsTlMySmhka05sYVRReGFHaHNXR2Q1Y1VjcmRtOURkbnA2Y1c5blZEQnFSV05zT0VaR1Vsa3JUbVJIUTNCdFEzZEdZMHM0VDBwWVVHMTFkbVoyV25WSVIwdGFhMHhaZDFGaFVESldNRzFqUWtFOVBRbz0=",
-      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.7.9/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKTmNHaDBhMVZGZVdreVRWcHFkMGxrUW5SV2NHcG1Sa1pEUm1wa2NubDVOMVJHWmtnMVdIVjZXVk5rVG10VVdXSnVZWHBWT0hsUlRUTTNlV1Z6ZGpoaU0ycDFXVE5xUVUxa00xb3JkRVZEWlRGQlZrRlJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeE9UZ3pNREE0Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tVVlpyWVZOdEsxaDZNM0pSVmpWUmEwcFdWVFpLTUdkcVprVnBhV0pHUlVaTVVUSktTbkpuT0VsVGN6ZzViVFZTVUc5Mk5VVlBiMjF3UTJWQ2IwbGlUVVZUZWxGeUswTlVkRVo2WlZoSVpXMUhTM2xyUVdjOVBRbz0=",
+      "url": "https://github.com/mgang4u-dev/CaTerm-releases/releases/download/v0.8.0/CaTerm.app.tar.gz"
     }
   }
 }
