@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "notes": "v0.8.0: Release",
-  "pub_date": "2026-02-28T11:29:53Z",
+  "version": "0.8.1",
+  "notes": "v0.8.1: Release\n\n## v0.8.1  ### 버그 수정 - Claude 사용량 조회 시 주간 리셋 날짜가 표시되지 않던 문제 수정 ",
+  "pub_date": "2026-03-05T00:36:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBkc1JGVk5jREJVYWxremVscDNXVTlJWmxObk1YcG9aM2xFTkZwTWVHcE9PVXBUYkdwMFNUZFdXa2RQTUhGdmFESkVVM05VVUdGTU1XcEdlbXRsZDFSMmJVdE5TVFZWWVRjeVUweFlkMkV5Y3pCb1ExRkZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeU1qYzRNVFk1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tTR01yYm10b1dFMHpPVTAwYURaWFpsZHpjMVZaZVZGVVozZFZRa1pOWWpkWWVreG9TekpNT1hOMlZpOTBWbVpHTVVwaFJVNUlVUzh3U0ZCTFNucFpXbnBQVTBReGJVdEpNalJ4VW1wUVlVcE1NR2xrUWtFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.0/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjFBeGIwUm5lVWtyZVhKdGRXbE9hRmd5VGpSU1pIVjNVM1ZVSzJSaGFtSTRibVpzUWxCWGRuZGxZVTVvTVhOT1F6TkdMM1J0Wm5selJGQTFPV2RrWVZocWQwOXlUbU5PZVhCM1QzUm9hVVp6TlZrMk0xRjNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeU5qY3dPREF4Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tVVFozUlhacFRsbEZORFpDZG5GMGNsWkNVMjVhWTFVM1JXOXhkVTk1ZDAxRllYcG1SelUyWWpObVJVRnVia2gxYlM5Q05IZHdiRVI1ZDJKYWVVZFBXVTFpVmtSaFFVODJTa2hLTDJob1JrUmtjbWRDUVhjOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.1/CaTerm.app.tar.gz"
     }
   }
 }
