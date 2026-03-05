@@ -1,11 +1,11 @@
 {
-  "version": "0.8.4",
-  "notes": "v0.8.4: Release\n\n## v0.8.4  ### 버그 수정 - 자동 업데이트 확인 시 CORS 오류로 업데이트가 감지되지 않던 문제 수정 - Claude 사용량 세션 리셋 시간이 표시되지 않던 문제 수정 ",
-  "pub_date": "2026-03-05T16:58:46Z",
+  "version": "0.8.5",
+  "notes": "v0.8.5: Release\n\n## v0.8.5  ### 개선사항 - 업데이트 확인 안정성 개선 ",
+  "pub_date": "2026-03-05T17:10:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBkV2MySTROekpETDFsbGIwbEZkbWRQTTNrNFNUSkxRV3g0Y1ROd1IzTlVVRmxPT0VkR05ERmFTWGRoUm1kWk9EVjZWbEI0ZDJOSFJrTnJaSFpvYTJKTWRraG5aRzFVVWtoSFJsZ3ZSeXR6VjBwQ1ZVRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeU56STVOalF3Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tWeko0ZGxkNmFWZDFUbVY1ZDNobVdFdERaRnBJU3poQlZtUlJhRVJ0YWtSUk5UVTFkRWREV2pNeFVXSnJSVkZqUWxGdFpWSnZTMG94VjFkaU1YZFJVbmR6WTIwMFExRXlNVGhPTmxwblJWWjJTakZDUWxFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.4/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBSalFYVllhemN2WTA1dGNuQm5aRzVFVlU1Q1kzQTBRVlJMZFd4SWJtZGlkMFJXT1ZwRVMwVm1kamxuU0ZWWkswOXZaVGxXVjJKMllqaDJORWRIY2swMVRUWlBZbkJtVFRrMWVuaFFUbmx1ZGpWT1UyZFJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeU56TXdORFUxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taMlZ4VUVwcWFFaHhZMEpGUVdkUGVtZExkek5PTDJKT2JVaFZWalZFVW5wdFkzcDFSbkpQTTFoc1FXVmtkazltUkRJM09XMTRkblIzWjJoMmNIcDBkRmRrU0dGNVNsVTRLemRMWW5SeGFsaExZVkZZUVVFOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.5/CaTerm.app.tar.gz"
     }
   }
 }
