@@ -1,11 +1,11 @@
 {
-  "version": "0.8.2",
-  "notes": "v0.8.2: Release\n\n## v0.8.2  ### 버그 수정 - Claude 사용량 리셋 시간 표시 개선 (공백 누락 수정) ",
-  "pub_date": "2026-03-05T15:11:38Z",
+  "version": "0.8.3",
+  "notes": "v0.8.3: Release\n\n## v0.8.3  ### 버그 수정 - Claude 사용량 세션 리셋 시간이 표시되지 않던 문제 수정 ",
+  "pub_date": "2026-03-05T16:44:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKTlV6VnNkRzFpU0VkNFIxUkpjbkUzZWxGME0xTXZSMlZTVkZWRFZWbzVRa0ZLTmpCVU9XWndZazVQTXk5alpFOTFPVFZRT1cxQ1VubFRVVGwxTjJSRk1USkJORVl4UTJZdlIwNUVNRkJoVEN0cWNHZG5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeU56SXpNelkxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjVTAwZERWV05tRllSR3gzYm01Q2NXOVdZWEptYUROUGExSnpOQzlsYkhsME4wdHRSM2swZWtacmNraHdRekYzTVZCMGJHTldXVlprV21WVlQyTjFOV2RoVDNSdlRtOUpjVEZYYzNJelpsUk5kM2RJUVhjOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.2/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB4alNqSmhhVWhQWkROdGFETkxRakZKZUhOb01GUk5XVlJRZDBsRVkzcDJiM0ZYY0hNd1drUjZUVUpQV1hFNGRtTTVPWEJRTlRWdVJXRnhORUY1TUZjdlRtdFFOMmhXYlZkWFYzUk1TVVpGZDNSeFoxRXdQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeU56STRPVEU0Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0thR3hUYWxWYU5XVjVVWEZXYVdkQk4xa3hPRGx5UW1aTWNEVjFlV05KT1ZnMGRGaFlNSEUwUW5GS1JGaFRaelYyWm5kWFJteFhjRVpDVkRGWUwxcFNPRXBPVFhWdmVGQlVMMVYzV21SME9DdFhVSG96UVZFOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.3/CaTerm.app.tar.gz"
     }
   }
 }
