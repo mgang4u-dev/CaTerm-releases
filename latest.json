@@ -1,11 +1,11 @@
 {
-  "version": "0.8.5",
-  "notes": "v0.8.5: Release\n\n## v0.8.5  ### 개선사항 - 업데이트 확인 안정성 개선 ",
-  "pub_date": "2026-03-05T17:10:04Z",
+  "version": "0.8.6",
+  "notes": "v0.8.6: Release\n\n## v0.8.6  ### 개선사항 - Claude 사용량 조회 안정성 개선 (rate limit 대응)   - 조회 주기 5분 → 10분으로 변경   - 재시도 간격 exponential backoff 적용 (5초, 15초, 30초)   - 연속 실패 시 조회 주기 자동 증가 (최대 30분), 성공 시 복귀 ",
+  "pub_date": "2026-03-10T07:13:07Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBSalFYVllhemN2WTA1dGNuQm5aRzVFVlU1Q1kzQTBRVlJMZFd4SWJtZGlkMFJXT1ZwRVMwVm1kamxuU0ZWWkswOXZaVGxXVjJKMllqaDJORWRIY2swMVRUWlBZbkJtVFRrMWVuaFFUbmx1ZGpWT1UyZFJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjeU56TXdORFUxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taMlZ4VUVwcWFFaHhZMEpGUVdkUGVtZExkek5PTDJKT2JVaFZWalZFVW5wdFkzcDFSbkpQTTFoc1FXVmtkazltUkRJM09XMTRkblIzWjJoMmNIcDBkRmRrU0dGNVNsVTRLemRMWW5SeGFsaExZVkZZUVVFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.5/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBjcmJtdGhZa3BWT0Rka1VtbGFNalp5U21wMGVWZHNSR2MxVVZoRWJYZElkaTlPY1VWaVl5OVlSbWQxVWpOWVZtNUNhV2R2Y1M5SmVXaHJTVU5PUjNaa1ZsQkROVWt2U0ZoaE5teExZVEpOTWtWVGNWRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek1USTJOalUzQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tNbkprZUZCT2RFOU1aVlZQV1RsTWNHbG9Rbk50YTJFd2RTdEtSR1JUZW5BM1dEVmxVRTFCUW5kVmQzSTJVV0pzU1c1R2MxRTFMMUUxZVZWVFZGbHNhbHBrVmxJd056WkNjSEF2VW1kblJVbFpkM1JIUkVFOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.6/CaTerm.app.tar.gz"
     }
   }
 }
