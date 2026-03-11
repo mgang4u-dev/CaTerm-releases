@@ -1,11 +1,11 @@
 {
-  "version": "0.8.6",
-  "notes": "v0.8.6: Release\n\n## v0.8.6  ### 개선사항 - Claude 사용량 조회 안정성 개선 (rate limit 대응)   - 조회 주기 5분 → 10분으로 변경   - 재시도 간격 exponential backoff 적용 (5초, 15초, 30초)   - 연속 실패 시 조회 주기 자동 증가 (최대 30분), 성공 시 복귀 ",
-  "pub_date": "2026-03-10T07:13:07Z",
+  "version": "0.8.7",
+  "notes": "v0.8.7: Release\n\n## v0.8.7  ### 개선사항 - Claude 사용량 조회 안정성 대폭 개선   - 조회 주기 10분, 첫 요청 1분 지연, 실패 시 재시도 없음   - 여러 탭/창 간 사용량 데이터 공유 (중복 API 호출 방지)   - 자동 동기화 ON/OFF 토글 추가   - 동기화 상태 표시 (동기화 안됨 / 동기화 실패 / 업데이트 시각)   - 아이콘 색상으로 동기화 상태 구분 (회색: 미동기화, 주황: 동기화 완료) - CaTerm 터미널에서 Claude Code 실행 시 중첩 세션 에러 수정 ",
+  "pub_date": "2026-03-11T01:19:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBjcmJtdGhZa3BWT0Rka1VtbGFNalp5U21wMGVWZHNSR2MxVVZoRWJYZElkaTlPY1VWaVl5OVlSbWQxVWpOWVZtNUNhV2R2Y1M5SmVXaHJTVU5PUjNaa1ZsQkROVWt2U0ZoaE5teExZVEpOTWtWVGNWRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek1USTJOalUzQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tNbkprZUZCT2RFOU1aVlZQV1RsTWNHbG9Rbk50YTJFd2RTdEtSR1JUZW5BM1dEVmxVRTFCUW5kVmQzSTJVV0pzU1c1R2MxRTFMMUUxZVZWVFZGbHNhbHBrVmxJd056WkNjSEF2VW1kblJVbFpkM1JIUkVFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.6/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBWRE1pc3dPVk5SVFVaMFJWRTFXaTlCZUZST1RUTTNXVW8zZEROekwzTlZUalEzZDJaSFEybG5iSEZoTW01a1EzcFNiemxsY21KYUwzSktkMnhQTlRoNmRuaDBkemRHSzJOTVowMHpSbEJzSzA5UVZIZFZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek1Ua3hPRFUxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tVakpwVUhKM1JXVk1RV3BEWkZRM1FtOXNia1JLYTJSVGJuUnRhSE5GWmt3NVpXVjJiQzlsYkhoaVNISXJablJVZG1sUFRXNUpMelk0Y2t0MldXSXljbXRCVjJoVlNVOXlPRlJGTVZKYVQxbFFhVzFGUkdjOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.7/CaTerm.app.tar.gz"
     }
   }
 }
