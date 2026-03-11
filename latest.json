@@ -1,11 +1,11 @@
 {
-  "version": "0.8.8",
-  "notes": "v0.8.8: Release\n\n## v0.8.8  ### 개선사항 - 자동 동기화 ON 시 즉시 동기화 시작 - 동기화 진행 중 수동 새로고침 버튼 비활성화 ",
-  "pub_date": "2026-03-11T01:27:21Z",
+  "version": "0.9.0",
+  "notes": "v0.9.0: Release\n\n## v0.9.0  ### 신규 기능 - Claude 사용량 자동 동기화 ON/OFF 토글 추가 - 여러 탭/창 간 사용량 데이터 공유 (중복 API 호출 방지)  ### 개선사항 - Claude 사용량 조회 안정성 대폭 개선   - 조회 주기 10분, 실패 시 재시도 없음   - 수동 새로고침 버튼으로 즉시 조회 가능   - 동기화 상태 표시 (동기화 안됨 / 동기화 실패 / 업데이트 시각)   - 아이콘 색상으로 동기화 상태 구분 (회색/주황)   - 동기화 진행 중 수동 새로고침 버튼 비활성화  ### 버그 수정 - CaTerm 터미널에서 Claude Code 실행 시 중첩 세션 에러 수정 - 사용량 파싱 시 문자열 슬라이싱 오류 수정 - 주간 (Sonnet) 리셋 날짜 미표시 수정 ",
+  "pub_date": "2026-03-11T04:41:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBWbWRFbFVORXBCZGpkdmN6WlNRVFZpVDNWVVdXdExURGx3YldwQlExTTBZM1pWVFVkclQzWmFlR2RrTURCT1VrdENTVTR5YURSUFZtMUhkWGgwSzFCU1JXTjJhak0zZFhwdlVEa3hWVnB5TVRWUWVsRlZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek1Ua3lNekk1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tVVmxWVFRaT1REaG9PSGxDWkU5MlJtNUNhVkl4Wlc5QlIyNDFjVGhTU1VGVE4ybFFRVkJOWjI4dlJHdEJjRzU1Vm1SbVRuTlJaRmxaV0hsMFpuSjVhV0ZQTXpONmNXNDRSbVpsVjBFd1JqUnZRVmRIUkdjOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.8.8/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB0R1kwdERibTh5THpWM1kzcEJWMkZXWkhKeE9ITk1UVWt4WkVadlozVjRibFpQVDJwaFJVcEZRMlI2VFZoME5VeE5aWGhNVUUxSlZWRllNalpHYjFwVWJURjFlRXBtTTNOWmFXVmhiamxpTmpjeE9YZHpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek1qQXpPVGMxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tXRnBOTjFkM1l6WnRiRk5pTWxWMmFHcGpZVEZEVFVONGNucFFWVmxYWldSUWRrNUhPRk5GU0VKSldHOHJkMjkyU2pBNWRUTTRMMVprUWsxUlFVUnRXV0o2TUVGNGN6QnVSMFpFYUc1cVZYcDNMM0p0UTBFOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.9.0/CaTerm.app.tar.gz"
     }
   }
 }
