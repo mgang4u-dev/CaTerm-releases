@@ -1,10 +1,10 @@
 {
   "version": "0.9.3",
   "notes": "v0.9.3: Release\n\n## v0.9.3  ### 버그 수정 - 탭 드래그 중 시스템 버벅임/메모리 부족 시 탭이 멈추는 현상 수정 - 탭 드래그 상태가 해제되지 않아 터미널을 재시작해야 하던 문제 수정  ### 개선사항 - 탭 드래그 중 Escape 키로 취소 가능 - 창 포커스 손실 시 드래그 자동 취소 ",
-  "pub_date": "2026-03-16T02:04:29Z",
+  "pub_date": "2026-03-16T04:59:55Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjAxVWJrcHFPWFJtUjFWeVUwaEVUMGhQYzBFck5YRnFMMjlsUzFOR1NFWjZOVk5TUmtzdlNVc3JZa2t6ZFhOSGVWQk1jRTAxT0RkRlRHRjJNWGRIV1Zab1NtMVNUR3gyV0ZWTlYzZ3ZkRnBYVUhFclozZHZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek5qSTJOVFUwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tXa2hHYldaME1qQTFSVmxPVlZkVk1HNWlja1Z5TUU1emJXVkhjWHBIY2tSbFQwWlFjazAxZGtwemJUUm1VSGxZV1hvNVVrRlZTMGxPWTIxRlkzQjNia2hvV1VKM1drdE9ZWEprTkN0UFdpOURObFZCUkhjOVBRbz0=",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBGWWRHNHJORUpvVURNd1ZUZFJhMmhyY0dOR1F6VnRlbGROUVRGd1NuWXZhRTFaTm1aRU5uWm9ORkJHZG5CUllWRTJiMW8xYUdkTVptTTFjVXh0ZUhkbmIxRndZbmszZFROMFMyaHhSMUZwYXpObWExRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek5qTTJNemd6Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tlVFozZWpGbVYwOTFZbTR6WjJSUlRFczFUbTkxUlVSWFJFWlhkVXhtYW1aMWNUaERVVk53V1M5UWVUY3ZOM1l6UVVWeFowSXJkbWREZDNJM1NHOW1lVGcyTkVsdmR6aGpTR2g1U21ONVpFUmhhR0l4UVZFOVBRbz0=",
       "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.9.3/CaTerm.app.tar.gz"
     }
   }
