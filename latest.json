@@ -1,11 +1,11 @@
 {
-  "version": "0.9.5",
-  "notes": "v0.9.5: Release\n\n## v0.9.5  ### 신규 기능 - SFTP 파일 더블클릭으로 업로드/다운로드 (로컬 파일 더블클릭 → 업로드, 원격 파일 더블클릭 → 다운로드) - Finder에서 파일을 원격 패널에 드래그 앤 드롭으로 업로드 (전송 큐 기반, 진행률 표시 및 취소 가능) - Cmd+W 단축키로 현재 탭 닫기  ### 개선사항 - SFTP 드래그 앤 드롭 시 점선 테두리 대신 부드러운 오버레이 표시로 UI 안정성 개선 - 터미널 화면분할 드래그 시 점선 테두리 제거, 색상 오버레이로 변경 ",
-  "pub_date": "2026-03-16T05:44:26Z",
+  "version": "0.9.6",
+  "notes": "v0.9.6: Release\n\n## v0.9.6  ### 신규 기능 - SFTP 파일 더블클릭으로 업로드/다운로드 (로컬 파일 더블클릭 → 업로드, 원격 파일 더블클릭 → 다운로드) - Finder에서 파일을 원격 패널에 드래그 앤 드롭으로 업로드 (전송 큐 기반, 진행률 표시 및 취소 가능) - Cmd+W 단축키로 현재 탭 닫기  ### 개선사항 - SFTP 드래그 앤 드롭 시 점선 테두리 대신 부드러운 오버레이 표시로 UI 안정성 개선 - 터미널 화면분할 드래그 시 점선 테두리 제거, 색상 오버레이로 변경 ",
+  "pub_date": "2026-03-16T05:55:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBSNVMyMWpiemxMUlUxM1RXZDRWVFZrYkRGck1tVmxZbU0zVFVkUVZXRk1TWEZ5U0hjclYyUjFTSGx0U0ZoeFdsVkpkRTlEVFZWT1ZWRjNOVFJNVlZKU1ltOTBkRFl4ZDB4UGRuaHRUSFZHYVhSbVZIYzBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek5qTTVOemM1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tOakJqWWpCeGVtSTJNazRyYXpGdE1rSlhURUpOTVVrMmQxWkVOVE54UmpGMmNGSnliQzl2YVhCdU5YSmlUa1UzT1doaldXSk9WU3R2VEUxT2RIWnlWa2s1TVUxQk1UTldRMjEyY0dZcldGVjZjV3hHUkdjOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.9.5/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBOck0zbGhNVWRPVFhaNWVWZ3dNRTk2UldrNGRsRk9MMk5HWjNaeFExUnBZVlpVVlhaQ1kxbDFaMjhyTlVwakwyUlZTVkJtZERocldsVkRaMlJXZVZwYVVuSlRTbFpxYWxkSFJqbHhSRVpWV0cxUWVtZE5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek5qUXdORFV5Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjbGM0WTNsaU1FWXJVbGMxYVhkdVZGazJkQ3ROZDNZMmRWVjFhRzAzVDJOVWFHNVNlRGxRZERocmVuRm1WREowWWpodWJHVkxWMk5qY0VwVWRuRmtORlpPZURsNFRqSlNURVF5T0d0ck5rWXdVakJxUW1jOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.9.6/CaTerm.app.tar.gz"
     }
   }
 }
