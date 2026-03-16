@@ -1,11 +1,11 @@
 {
-  "version": "0.9.2",
-  "notes": "v0.9.2: Release\n\n## v0.9.2  ### 버그 수정 - 터미널 스크롤이 위로 튀는 현상 수정 (긴 대화 시 심해지던 문제) - macOS 트랙패드 관성 스크롤로 자동 스크롤이 의도치 않게 꺼지던 문제 수정 - 스크롤백 버퍼가 가득 찼을 때 스크롤 위치가 어긋나던 문제 수정  ### 신규 기능 - 사이드바에서 프로젝트/서버 클릭 시 이미 열린 탭으로 자동 전환 - 동일 항목이 여러 탭에 열려있을 경우 클릭마다 순환 전환  ### 개선사항 - 스크롤백 버퍼 크기 증가 (3,000줄 → 10,000줄) - 터미널 데이터 출력 시 렌더링 완료 후 스크롤하도록 타이밍 개선 ",
-  "pub_date": "2026-03-15T08:20:00Z",
+  "version": "0.9.3",
+  "notes": "v0.9.3: Release\n\n## v0.9.3  ### 버그 수정 - 탭 드래그 중 시스템 버벅임/메모리 부족 시 탭이 멈추는 현상 수정 - 탭 드래그 상태가 해제되지 않아 터미널을 재시작해야 하던 문제 수정  ### 개선사항 - 탭 드래그 중 Escape 키로 취소 가능 - 창 포커스 손실 시 드래그 자동 취소 ",
+  "pub_date": "2026-03-16T02:04:29Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBVMGNqSjBNRmxoWVRKRVdXWXpSbFp1VjFCNWNrMVdhVlpUTVRScVYzcFhkVVZJVldKWUwwUXdiR2gwYUdsYVluVmtaWE5pSzJ4T1NWQnpObTFTV1ZWMU1tRnljMU51TTJZMFFsVlliMkZaY1U5TWRsRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek5UWXlOamc1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taM0poYWpjM2FqTjRUa1E1VkN0TGVtRkxORVpaYWxGcGVXaE9SakZtY21GMVVWRlNSVTVsYTA5Sk9WTllWV3R0WlZaVlZWWnJhVE01V2pKb2FURnVLMU5yWjNWTVJFOVdOaTgzTHpSNUwxSjFRbVJNUVZFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.9.2/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjAxVWJrcHFPWFJtUjFWeVUwaEVUMGhQYzBFck5YRnFMMjlsUzFOR1NFWjZOVk5TUmtzdlNVc3JZa2t6ZFhOSGVWQk1jRTAxT0RkRlRHRjJNWGRIV1Zab1NtMVNUR3gyV0ZWTlYzZ3ZkRnBYVUhFclozZHZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek5qSTJOVFUwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tXa2hHYldaME1qQTFSVmxPVlZkVk1HNWlja1Z5TUU1emJXVkhjWHBIY2tSbFQwWlFjazAxZGtwemJUUm1VSGxZV1hvNVVrRlZTMGxPWTIxRlkzQjNia2hvV1VKM1drdE9ZWEprTkN0UFdpOURObFZCUkhjOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.9.3/CaTerm.app.tar.gz"
     }
   }
 }
