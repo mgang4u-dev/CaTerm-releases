@@ -1,11 +1,11 @@
 {
-  "version": "0.9.3",
-  "notes": "v0.9.3: Release\n\n## v0.9.3  ### 버그 수정 - 탭 드래그 중 시스템 버벅임/메모리 부족 시 탭이 멈추는 현상 수정 - 탭 드래그 상태가 해제되지 않아 터미널을 재시작해야 하던 문제 수정  ### 개선사항 - 탭 드래그 중 Escape 키로 취소 가능 - 창 포커스 손실 시 드래그 자동 취소 ",
-  "pub_date": "2026-03-16T04:59:55Z",
+  "version": "0.9.4",
+  "notes": "v0.9.4: Release\n\n## v0.9.4  ### 신규 기능 - SFTP 파일 더블클릭으로 업로드/다운로드 (로컬 파일 더블클릭 → 업로드, 원격 파일 더블클릭 → 다운로드) - Finder에서 파일을 원격 패널에 드래그 앤 드롭으로 업로드 (전송 큐 기반, 진행률 표시 및 취소 가능)  ### 개선사항 - SFTP 드래그 앤 드롭 시 점선 테두리 대신 부드러운 오버레이 표시로 UI 안정성 개선 - 터미널 화면분할 드래그 시 점선 테두리 제거, 색상 오버레이로 변경 ",
+  "pub_date": "2026-03-16T05:06:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBGWWRHNHJORUpvVURNd1ZUZFJhMmhyY0dOR1F6VnRlbGROUVRGd1NuWXZhRTFaTm1aRU5uWm9ORkJHZG5CUllWRTJiMW8xYUdkTVptTTFjVXh0ZUhkbmIxRndZbmszZFROMFMyaHhSMUZwYXpObWExRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek5qTTJNemd6Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tlVFozZWpGbVYwOTFZbTR6WjJSUlRFczFUbTkxUlVSWFJFWlhkVXhtYW1aMWNUaERVVk53V1M5UWVUY3ZOM1l6UVVWeFowSXJkbWREZDNJM1NHOW1lVGcyTkVsdmR6aGpTR2g1U21ONVpFUmhhR0l4UVZFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.9.3/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBwMFNtRkJhRWhGWTAxdFl6TjVaazh5Vld4Uk5WVjFlVEV4VnpSRU4wZDJLMWhxYTI4d2IycGtlSGhhY1ZGTFprbHViekYyV21WS1EzaElVRFpMUkdZNGMxcGhWMGxuWWtsU1JXNWlVMmQxYm5JelVFRTBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek5qTTNORGMzQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tOSEZVVUZsTVdsZEhWV3BrY21SR1lXUk5UbGx3WkVKSGFuQTVTazlsZW5VdkwzTkliQzgzYTFaeU1XVkJUVkJIWjB4NU9UaFFNRU5UY3k5RWRsSTROMEV3T1ZwclpTdEZXR0YyVjJObGFXRjRWRFF4UkVFOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v0.9.4/CaTerm.app.tar.gz"
     }
   }
 }
