@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "v1.0.0: Release\n\n## v1.0.0  ### 정식버전 출시 ",
-  "pub_date": "2026-03-16T09:19:55Z",
+  "version": "1.0.1",
+  "notes": "v1.0.1: Release\n\n## v1.0.1  ### 개선사항 - 터미널 스크롤 안정성 개선 - Claude 사용량 조회 안정화 ",
+  "pub_date": "2026-03-17T02:15:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBSMWMwcE5iRk52VEV0ck5WTktXa0lyYlVWcE1qaFhaVkEyVnl0c2QyVklhbTR5UTBKU2VXZzRaRVE0YjBRMVVtd3dabGhVVTFsRmRVNHJTRVZ1UW1OamRuQnFaRGxrYTJSeWFuQlhXbVJ4WWpSbmFsRlpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek5qVXlOekF3Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taemxyTjJOWE0yUm9hM0pKTTNsR1pFMTZibmd6VWxGblZYRm1jV2RRVVRBMVpGbG1NazExY0RWbmJVaGpMMk5KYlhjNWIyaDVlWFJrU21FMVJXTnBPRVpYUW5CV1NWSmFRa1J4TmpkcVoxbDBWMGR1UWxFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.0/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBOWFpIaFFSMUkwVnpJMWJ6QmhURmRhZWxaaFNIaHpRV0pJWW04dmNpdG5WWE52T0RsUGRuQk9iVFp2UlVoeEwyeFRTR1lyUm1jd1lrRTNlRlZqWkd0RmJsRkVPR2MwWTB4VFdEVklka1ZCZUd4R2NXZFJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek56RXpOVGN5Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tWa0pNUWpaVlYzcERTalpEWVU5NmMxVjBRVEpHYTJkTWNIaE5VQ3RsWWtwMlprazNRMjF4U201blRrWlhkRGg1UlZkaFRrdGhTRXhMTW05YVNtTkNTbXhrTDB0SlJ5OW1WblJtWlVsUVpEbEVMMlJsUVhjOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.1/CaTerm.app.tar.gz"
     }
   }
 }
