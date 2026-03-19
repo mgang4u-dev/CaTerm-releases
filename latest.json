@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "v1.0.2: Release\n\n## v1.0.2  ### 개선사항 - 사이드바 항목 이동 시 발생할 수 있는 오류 수정 ",
-  "pub_date": "2026-03-18T02:13:52Z",
+  "version": "1.0.3",
+  "notes": "v1.0.3: Release\n\n## v1.0.3  ### 새로운 기능 - 터미널 글꼴, 크기, 줄 간격, 자간 설정 추가 - 다양한 글꼴 내장 (JetBrains Mono, Fira Code, D2Coding 등) - 도구 관리 기능 추가 (자동완성, 구문 강조 등 원클릭 설치/제거)  ### 개선사항 - 설정 화면 레이아웃 최적화 ",
+  "pub_date": "2026-03-19T06:53:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjAwNWRsRlhTRlJ4VjFwS01qUTBWamxQZDNoWU5uWnZaRGN6WjBWaFMzZFhWemRyWlNzMVIzWTFSR3hFTkd4blZVNVBOM29yYkRocVNXcFRMM2hHYlhGR2NXUlJUM2xIZDFoc2JVWlJZa1owY0hwNGFYYzBQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek56azVPVEl4Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tRWGRFVURoRUwwaDZSREZ5VDNsV1JWcHNPSGR6U1daWGFURm5UVTlSVkd0dWRsUXdSM04xUTIwMlNIbERZMU5aYlhwcGNrZDBaalZ6VGpOUlUwRlhkMnhpV0hka1FqZ3pNaXMyVWtkeFFuTlVNWGRMUWxFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.2/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBSa1JYUjRVRU5FTjFKcGF6SnVhMDFhTHpjclozSnFla05hWlZoR05WRXJVM3BCWXpkRmMyZE1Ra2h0Y25Wc0swVlhUalY2TjJoRU4xTlRjV2cwYVU5dGFHbDVUeTlHUlhSclRreFBhVXhwWXpjeGRYYzRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek9UQXpNVFF4Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tUbVpyTlU5S1VETXhkVXBCWW1OREwzVllSakJVTUdvMmFVaG1kRkpzTm13clRTdExMMEo1ZEdWVlZVbEJWa1ZZTW1ORVdFUm5aMFZrVEZoNGMxWlZWRXRwVWxSWlRHUkZSa3gxVkV3clJ6QndjbVZoUWtFOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.3/CaTerm.app.tar.gz"
     }
   }
 }
