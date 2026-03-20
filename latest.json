@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "notes": "v1.0.9: Release\n\n## v1.0.9  ### 개선사항 - 탭 전환 시 화면 표시 안정성 개선 - 터미널 하단 내용 표시 개선 ",
-  "pub_date": "2026-03-20T19:06:23Z",
+  "version": "1.0.10",
+  "notes": "v1.0.10: Release\n\n## v1.0.10  ### 개선사항 - 터미널 하단 내용이 잘려서 보이지 않는 문제 수정 - 화면 분할 시 다른 패널 클릭 시 스크롤 위치가 변경되는 문제 수정 ",
+  "pub_date": "2026-03-20T19:19:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjFCR2VGUlFOMVJMU0V0dmFWTnJMMDl1Y1VwcVl6TkRTR2xKUTNOelEwaFpLMVEwU1dWMFJrSnFNVFYyV0ZRMlpuVTFaMnB6UjFkWE1sWnlOMmhOVlZkeGIxaDFWVGxMUlhKSFNtRm9OM0p3U2xnMVpsRmpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME1ETXpORGM1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tRUzlLZDAxd1YycFhaRFYwVjFKNlNVdG5kbFpXYVdzdmRtaDZWREUyY3pOaVQzRk9ORlJWY0RZd1IxQm5aMGswUjJKb1RqUTBTV1ZpU2tWaVJrUmFNazF5YkhRNGVqUkZMMUZNYVRWbmNHczNaSHA2UVdjOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.9/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBRcmFIaG5ZMGRxVm1WMWN6RnRVMkZIWjFOamRHOTFZVVl6V1RCNGRrNTRZa1ppTUZwNlQzTkJaMFEzY0U5clMxQmhTRU56TWt0bGJFOVhXblYyVld4NmJFRnlkR1JyTWlzMFoxRnZibkl2Um1ScGVYZHpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME1ETTBNamt3Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taa2xVYkVsclVsZHhXbGxOVERsaE1YTkdOWE41ZGxreWN6SlFjRWh5TTFSelVtRlFaM1owU1V4bWExaEtaMjlUTUhOR1NqZDBOMFIxUlZOcVpHbG1kbFl4ZW5WRVdUUlZNakpFT1RkTWFDdFJNMGxxUWxFOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.10/CaTerm.app.tar.gz"
     }
   }
 }
