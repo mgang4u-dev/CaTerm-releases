@@ -1,10 +1,10 @@
 {
   "version": "1.0.3",
   "notes": "v1.0.3: Release\n\n## v1.0.3  ### 새로운 기능 - 터미널 글꼴, 크기, 줄 간격, 자간 설정 추가 - 다양한 글꼴 내장 (JetBrains Mono, Fira Code, D2Coding 등) - 도구 관리 기능 추가 (자동완성, 구문 강조 등 원클릭 설치/제거)  ### 개선사항 - 설정 화면 레이아웃 최적화 ",
-  "pub_date": "2026-03-19T06:53:49Z",
+  "pub_date": "2026-03-20T09:45:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBSa1JYUjRVRU5FTjFKcGF6SnVhMDFhTHpjclozSnFla05hWlZoR05WRXJVM3BCWXpkRmMyZE1Ra2h0Y25Wc0swVlhUalY2TjJoRU4xTlRjV2cwYVU5dGFHbDVUeTlHUlhSclRreFBhVXhwWXpjeGRYYzRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek9UQXpNVFF4Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tUbVpyTlU5S1VETXhkVXBCWW1OREwzVllSakJVTUdvMmFVaG1kRkpzTm13clRTdExMMEo1ZEdWVlZVbEJWa1ZZTW1ORVdFUm5aMFZrVEZoNGMxWlZWRXRwVWxSWlRHUkZSa3gxVkV3clJ6QndjbVZoUWtFOVBRbz0=",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKM2RscEhjazUyVVhsbE1ESk9aM2cxVUdOdFoydDNRUzk1TjNkemVrTkJXREVyYTJscGJFOXdRa1U1VWxkelIxSlhWRk15V2pONE5razFOVFJOVTNwT1ZXbG5VRkF6TVRNM1JGUkpRbkJqVG5SMU5tZDNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94Tnpjek9UazVNekEyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tUVTVFYlVSSllXWklVazVrTkdodVkydzNUR3d3ZFRaYWFFWnVaMnRvVlRSbGNWaGxTMDV5YkVWRGRubEVhV2xZUnpGSk9VRm5WQ3MzYm1aNE1YTnpkV1pWVXk5Q1JVeFlaMEpPVDJKRFRGcDBlbXBsUTFFOVBRbz0=",
       "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.3/CaTerm.app.tar.gz"
     }
   }
