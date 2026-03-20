@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "v1.0.5: Release\n\n## v1.0.5  ### 개선사항 - 스크롤 고정 상태에서 의도치 않게 하단으로 이동하는 문제 수정 - 터미널 하단 내용이 잘려서 보이지 않는 문제 개선 - 터미널 화면 크기 변경 시 안정성 개선 ",
-  "pub_date": "2026-03-20T11:28:16Z",
+  "version": "1.0.6",
+  "notes": "v1.0.6: Release\n\n## v1.0.6  ### 개선사항 - 스크롤 고정 상태에서 의도치 않게 하단으로 이동하는 문제 수정 - 터미널 하단 내용이 잘려서 보이지 않는 문제 개선 - 탭 전환 시 스크롤 위치 동기화 안정성 개선 ",
+  "pub_date": "2026-03-20T11:48:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBWNlNYRm1NSEp5WkVSeVVXSkhNRU5KYkRkM04xRkhUM1E0VlhJNVZWUjNZMUJ2YmpGQk5HUmFRbWd2VmxvNGJ6VXdRVW8zV20wekswNWxUbkpqYlcxdGVHbG5PVzV0ZDBodkwzWTFaVVpTZDBOUGRYZG5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME1EQTFPVFkxQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tOSGs0ZFZkd1RVdHlXSFpGZVdoRVdFTkllazlIYlVrek1XeDFkVFpHWmtNMVEwSTFabXc1YTJ4S05YZzJXVUpyZFZKWlVWcEZkVEpWT1daaE5YZ3hhbFI0YXpOa1dEZFVjV3h4S3pab09VSkVRakZYUTFFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.5/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBwbE5VZEJSbFJ5UkVST05IcGhWWHBYYTBvMmJtcDVWMlV5TVZJeGRpODNPSEpSUjJKWU1XTjJaSEJqYlZGT1NGbGhNbFZ2TVc1aU0zSXJkVEIwWVdkd0x6aFdUVVZyUnk5cmFsWlVhazVMTUZKTGMyYzRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME1EQTNNVE13Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjM1Y0YUcxV2RtWmxiV04xYUNzdmNIcGphemRQYWxsdGNGQmlRVE5HTjIxTVJVWmljMDVRV2xwNGFFdHFUMEYxZUhsb1EyWnVUVTFzVEVJdmFGaGxOVFpDYmtSR2FrcEhOek0wZUc5alJFODBhVkF2UTNjOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.6/CaTerm.app.tar.gz"
     }
   }
 }
