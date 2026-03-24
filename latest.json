@@ -1,10 +1,10 @@
 {
   "version": "1.0.11",
-  "notes": "v1.0.11: Release\n\n## v1.0.11  ### 개선사항 - 터미널 하단 내용 표시 안정성 개선 - 다른 창 전환 시 스크롤 위치가 변경되는 문제 수정 - 화면 분할 시 패널 클릭 시 스크롤 위치 유지 - Claude 사용량 세션 리셋 시간 표시 수정 ",
-  "pub_date": "2026-03-20T19:51:50Z",
+  "notes": "v1.0.11: Release\n\n## v1.0.11  ### 새로운 기능 - 탭 우클릭 메뉴 추가 (새 탭, 새 창으로 이동, 탭 닫기 등)  ### 개선사항 - 탭 크기 및 가독성 개선 - 화면 분할 시 각 패널별 개별 닫기 버튼 추가 ",
+  "pub_date": "2026-03-24T07:22:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBoSGFERlVjakV2WVdFNVdDOHhValF4TmtSVGJrZ3lkM3BJVVhsWFVWUkxSMXBpZG5wbFpGRTRUakJLUlVSbE0wc3JTR0pyWkROQ1ZYRXlNVGh5VjNCblluZFllbTAwUjBaNlkzWkJWR05VTVVnd1pWRjNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME1ETTJNak0wQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tkRUV5WkZJeVlURkZVWEJKVW5NNFFrNDNWR0pKUjFKamJrMXJkbmR5WTFNMVpFcDZlR3hJUTBoR2IwaEtVbVZ2U21vNFF5czFZelo2VFVWQlFVazVaRmhKZEdKVVdGZEJVRWRYVkhkRGFuWTFjMVppUVdjOVBRbz0=",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA5TVNrOTJTREoyTkVSdFNrRmFRa2x1TUd4TmVuWmtVM1l3ZUZsc05ETmxVbGwyUzNKMFpuQkpTV2MxYlRWaWRqVkpTMnh5U25WQ1JtaDNLMEo2TVZOSlQzYzBiMVJaTWxnNU5tdFlZbkZLT1ZaYU5XZG5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME16TTFOems0Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjR0ZDTTBJNFRVVk5WMm8xUXpWaGJ6TnFjelZ1UW1SUU5HRlBPSFZtVWtreFZFRjJPVGgzTVdjNGRYWTRjVEo2Tm5jdlFYcFplalUzVkVSWWNHeGlTblZRYmpFMGJVMHpSa2g2TmpKWVZXUnVOak13UkZFOVBRbz0=",
       "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.11/CaTerm.app.tar.gz"
     }
   }
