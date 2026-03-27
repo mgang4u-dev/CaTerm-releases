@@ -1,11 +1,11 @@
 {
-  "version": "1.0.12",
-  "notes": "v1.0.12: Release\n\n## v1.0.12  ### 새로운 기능 - 탭 우클릭 메뉴 추가 (새 탭, 새 창으로 이동, 탭 닫기 등)  ### 개선사항 - 탭 크기 및 가독성 개선 - 화면 분할 시 각 패널별 개별 닫기 버튼 추가 ",
-  "pub_date": "2026-03-24T07:49:33Z",
+  "version": "1.0.13",
+  "notes": "v1.0.13: Release\n\n## v1.0.13  ### 개선사항 - 일부 환경에서 도구 설치 상태가 정상적으로 감지되지 않던 문제 수정 ",
+  "pub_date": "2026-03-27T09:04:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBGMk4ySXlVVlpwYjJsQ1FVWjFkSE4yVldWc2VTOW9XVWhhTld0emEwOHplSFp2YkV0U2JXcDRVRE5KZDBoeFluWjZlUzh2WkVvM2JtOVlWak5zY3pVd1IyWk1PV3dyVWpKVVRsVTNaQzlzV25KTU1VRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME16TTRORGc0Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tibWd5TUc0ck5YcFlXVWhsVkZScFdrTmpieTlES3k5aVNtSkdUMkozVG5oWEx6SjNhV0ZQZURSQ2IyZGxVamhOUzB0cFlqUXJUbmRKZWxoTFprNDNjbk5xUzNKeVZESk1TRzk2WmpCTFNHWlNWVGcwUkhjOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.12/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjB4R1dtMXFja3Q2U1Vjdkx6ZzVWbFZLZVVKdWJITlRlazF3ZUdGek1tc3hVR0ZpVjJwbmNYVXpkalp6VVZReFVFWkNaVm92VVZwcFoyc3pURVJGVkd0NkszUmlUMHBqUWtsWU56aEVVRTE2V2xCVGFGRTRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME5qQXhPVGMyQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tURmRrTTFvMmNUSjNiR2hQWTFOcGRXbHZVME54TWtKelUyMUNiRmRDUTNVclJtZFFWVkpLUTFBeWIwWXdlWGhLZEN0a1RHaFZNM1ZYYWxsaVNteEVMMWRpYkVGRUswVjFSbWN6UmxGWVQxQlpkRTF5UkVFOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.13/CaTerm.app.tar.gz"
     }
   }
 }
