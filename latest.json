@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
-  "notes": "v1.0.15: Release\n\n## v1.0.15  ### 개선사항 - 일부 환경에서 도구 설치 상태가 정상적으로 감지되지 않던 문제 수정 ",
-  "pub_date": "2026-03-27T11:32:40Z",
+  "version": "1.0.16",
+  "notes": "v1.0.16: Release\n\n## v1.0.16  ### 개선사항 - 일부 환경에서 도구 설치 및 제거가 실패하던 문제 수정 ",
+  "pub_date": "2026-03-27T11:56:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBGaWJrY3ZWbHBKU1VWdGMyd3ZiV2syWkRoUFdWTklkRWhoYWpOaUwwcHpaSEJ4WnpSVGRFSkJlVzVsTjNaTVlsWlFMM0U0VEVGNE5USmxNRkJEZEhKNU5qVjJOR0ZOTm5remQxZHJXV2swVURGYWFrRlpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME5qRXdPVEkwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tiMFZRU2pBMVFtSk9Vbmh1ZWtNNWVXMW9XVkZWVFhCTFluZHBTRzlsY1ZSWFUxRkdSM2RRVldWU1QxTnlZVWcxU1N0a00zQkpVWEF6YW5aT2JVbHlZek50YUc0MFFrZHphMVpLZFROS1oyZzBjM2hEUTNjOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.15/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBoYU5GQlJUbTFGU2pWdlZrSTJVMGxMUmxGd1VIQjNWa1kyUzFreVIxaHpUbU13ZDAxU1FXbFVjbFJvTmtzMGMyeFVUWGh3ZG5sc01VNXBNeXRUU0RWRlpIRkJkelJHVkZkWmJWUkljRTk0VFVWblZHYzRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME5qRXlNelV5Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tUWHBUV1dJM01qbE5Ua3h6WlZCQmEyTXlkbGxOWVVSR2RtOWtMelpsZGpkM09XZHhlR3BpYlhaUmJrOW1WRk5zYW1oM1JXMTBla2xJVnpjNFVuWkJha05JTHpGemFVVlBhSE56UnpWS2RsSllVbFZyUWxFOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.16/CaTerm.app.tar.gz"
     }
   }
 }
