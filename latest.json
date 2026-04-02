@@ -1,11 +1,11 @@
 {
-  "version": "1.0.18",
-  "notes": "v1.0.18: Release\n\n## v1.0.18  ### 개선사항 - 도구 설치 시 터미널 설정 자동 적용 개선 - 설정 파일이 없는 환경에서의 호환성 개선 ",
-  "pub_date": "2026-03-27T12:52:44Z",
+  "version": "1.0.19",
+  "notes": "v1.0.19: Release\n\n## v1.0.19  ### 개선사항 - 대용량 파일 전송 시 연결이 끊기는 문제 수정 - 파일 전송 속도 개선 ",
+  "pub_date": "2026-04-02T07:50:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBKVVNsWTJOR05FTDJOVlVGSnZXR3cxVWxWTFFqQkpRMnB6Ukc1SlltOTBaMlpIYVUwMmFtTnlkRTFOYVdWa2VEVm9UVmt3T0ZwelJUbFFUamgzTTFjd2VFWXlNREkzU2t4RmMzWmpOblp3Vm1aNGFFRlZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjME5qRTFOell6Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tTWFJtUW5nelV6WTBjelIyVm05SU16SnlZMjR4WTI0dmRpc3JVRTlJZERoVVFuVjBXa1JCTkZscVkyMWFha3c1S3pVd1ZWTm9jekZ4T0hGMmVpdGFRV3BIZFhkaVlWY3ZRVTVwWTNwT01Ia3pja2RqUkZFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.18/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjFCVWJtbDNSVVpHVjBKNFJXWnBZMVJOU1ZsUFl5dFFkV1JMSzJoVGNHSnJRM05KYkV4eVZYcFhkMkpIY1RKRk1rMXZXV3R1VkVobmRrSkRZVTVTWW1sdWNuRm9ZblpUY3pCaWJEbEZjbUpLZW5OTldHZFZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjMU1URTJNVEU1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taVTlSVW5semNETm9SMlZMYWxBdlozVTRRMGszU1RGTFIwbDFRV2xtUVRGeGRWVXdjMmRPWld0NGJ6Qk1kakp4VDB4QmNGSjVaeTgwWTBFNVVIZFhkWFUxWkdFMVNXUlJNQzlqVWs1UFVUVldhMjFLUTFFOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.19/CaTerm.app.tar.gz"
     }
   }
 }
