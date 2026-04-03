@@ -1,11 +1,11 @@
 {
-  "version": "1.0.19",
-  "notes": "v1.0.19: Release\n\n## v1.0.19  ### 개선사항 - 대용량 파일 전송 시 연결이 끊기는 문제 수정 - 파일 전송 속도 개선 ",
-  "pub_date": "2026-04-02T07:50:09Z",
+  "version": "1.0.20",
+  "notes": "v1.0.20: Release\n\n## v1.0.20  ### 개선사항 - 앱 종료 시 응답 없음 현상 수정 ",
+  "pub_date": "2026-04-03T01:18:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjFCVWJtbDNSVVpHVjBKNFJXWnBZMVJOU1ZsUFl5dFFkV1JMSzJoVGNHSnJRM05KYkV4eVZYcFhkMkpIY1RKRk1rMXZXV3R1VkVobmRrSkRZVTVTWW1sdWNuRm9ZblpUY3pCaWJEbEZjbUpLZW5OTldHZFZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjMU1URTJNVEU1Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0taVTlSVW5semNETm9SMlZMYWxBdlozVTRRMGszU1RGTFIwbDFRV2xtUVRGeGRWVXdjMmRPWld0NGJ6Qk1kakp4VDB4QmNGSjVaeTgwWTBFNVVIZFhkWFUxWkdFMVNXUlJNQzlqVWs1UFVUVldhMjFLUTFFOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.19/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBsRGNsaGFaMmsxU21oSmJFbFRjRU5qVFV0aVlWTjFjMFZQTUZOVmFXZE5Oa1pKU0dGSGIwcHVLMjFWT0hvM1FXUm5WRUp6SzJoNVFrdFNXVWQyYW1wU05TOWpSSGw1UlRKRFUxQlRjelpJUkRsVlFuZDNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjMU1UYzROell5Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tlVVJLWVhGMGRsQXdRelZxVFVsVFNtTkRNM2M0U1ZOUWQwVlVVVkowVW1GRU1VWXZkMnd3ZVZsSVZtTlliV3A1WVZOSlkwaHNhVTV3Y2tGMlVIWjJaMUZtV1RCNmMxZGhla0prWVdKbVZqTmpRbTh4UVdjOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.20/CaTerm.app.tar.gz"
     }
   }
 }
