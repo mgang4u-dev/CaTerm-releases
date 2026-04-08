@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "v1.1.1: Release\n\n## v1.1.1  ### 개선사항 - 사이드바 서버 목록 가독성 개선 ",
-  "pub_date": "2026-04-08T01:19:53Z",
+  "version": "1.1.2",
+  "notes": "v1.1.2: Release\n\n## v1.1.2  ### 새로운 기능 - 사이드바 서버 우클릭 메뉴에 SSH/SFTP 열기 옵션 추가 - 마크다운 뷰어 전면 개선   - 상용 도구 수준의 새 디자인   - 라이트/다크 테마 전환   - 목차 사이드바 + 본문 검색   - 본문 확대/축소 (⌘+/⌘-/⌘0)   - 다이어그램 확대/축소/이동/전체 화면   - 키보드 단축키 안내   - 읽기 진행률 표시  ### 개선사항 - 사이드바 항목 마우스 오버 시 높이 변동 안정화 - 사이드바 마크다운 파일 목록 한 줄로 컴팩트화 ",
+  "pub_date": "2026-04-08T03:00:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjA5a2MwSjBNVVk1VFRCMlRGSklja051VldWMVZXRnBZV2xJUVhGdGF6UnRPVTlJWkhSa2VXMWtTVXRCZEVaVmFVb3JNQzlMYTFkUmNqSk5ka2Q1WVd3eVpteFhWMUp3Vm1wNFJqQnFVa3RtZDJ4S2RHZHpQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjMU5qRXhNREUwQ1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tUME5QVlRkRWNFVmlNSFZ6THpoVk9YQkthR0pLZDA1M1VIRm1SRTAyUkcxWmFtTjFOSGhhVmxVclVHdEtOMWt6YjNac2EwZGtORmgzUWxwNlZXcEplSGR4YTFsM2NGRXdaRFZaVmpKSWF5dFlZbGszUkhjOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.1.1/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBSaVNFNUdUWEJVZVRGdE1sWnNUbXgxZVhaNmIwaHJNRkkyV25CbGJUUTJibWRxUlhkWmNYQkpiVU5TUkU1M01UaGpZWGRsUlRoT01sazVhVk5QYzBwVldVcDJOV2QwSzFZelZqQlJUVTlZUm1Zd01HZEJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjMU5qRTJPVE13Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tia1pWY0hwd1QyMWlTRE5OYzJFMFZ6UkxNRGR0TVV0NGRYVjNVSGd4ZWtGMFdXMW1OMHQxYUZWaWFWVnNPSGQzVUVSU1FUbDRRa3N5Y1ZscVZGSXpObGRZYkU5aVNqUndlVGd4UWxWeGJHeHFiblJ2UVdjOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.1.2/CaTerm.app.tar.gz"
     }
   }
 }
