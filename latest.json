@@ -1,11 +1,11 @@
 {
-  "version": "1.0.20",
-  "notes": "v1.0.20: Release\n\n## v1.0.20  ### 개선사항 - 앱 종료 시 응답 없음 현상 수정 ",
-  "pub_date": "2026-04-03T01:18:28Z",
+  "version": "1.1.0",
+  "notes": "v1.1.0: Release\n\n## v1.1.0  ### 개선사항 - SFTP 접속 시 홈 디렉토리 인식 개선 - 정보 화면 홈페이지 링크 업데이트 ",
+  "pub_date": "2026-04-08T01:10:48Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBsRGNsaGFaMmsxU21oSmJFbFRjRU5qVFV0aVlWTjFjMFZQTUZOVmFXZE5Oa1pKU0dGSGIwcHVLMjFWT0hvM1FXUm5WRUp6SzJoNVFrdFNXVWQyYW1wU05TOWpSSGw1UlRKRFUxQlRjelpJUkRsVlFuZDNQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjMU1UYzROell5Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tlVVJLWVhGMGRsQXdRelZxVFVsVFNtTkRNM2M0U1ZOUWQwVlVVVkowVW1GRU1VWXZkMnd3ZVZsSVZtTlliV3A1WVZOSlkwaHNhVTV3Y2tGMlVIWjJaMUZtV1RCNmMxZGhla0prWVdKbVZqTmpRbTh4UVdjOVBRbz0=",
-      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.0.20/CaTerm.app.tar.gz"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZUU25wWFIwVlFjVFUxWjBsdWNteHZLMU5OTjBNeGMxQmpPWEozZDJ0dldIa3hWREpTV1U1YVZFWkVUbmRIVDFGMVZuWjBWQ3RwVW1OUmIwUldlVkp4VjFOaVNuVTNhM3AzU2psbUt5OTJaakJSU1dOV1dsbElXblZtWlhsTFFrRm5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpjMU5qRXdORFU0Q1dacGJHVTZRMkZVWlhKdExtRndjQzUwWVhJdVozb0tjemxOWVU1dE5FUTFkVGxMVG5SNFRIUnpZVEkwY3l0UmFVdHVaMmhsTTFodVdsSnZiRTR2UkdVck5XaDZRMVJPT0ZoaVEyRnhSbmt3VEVzMU9YcElURGhGUW05NFpIcE1lRTFRUVVzNGVVZ3ZhVGhaUkdjOVBRbz0=",
+      "url": "https://git.mgang.app/mgang4u/CaTerm-releases/releases/download/v1.1.0/CaTerm.app.tar.gz"
     }
   }
 }
